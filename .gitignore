@@ -12,8 +12,8 @@ node_modules
 /coverage
 
 # next.js
-web/.next/
-web/out/
+.next/
+out/
 
 # production
 /build
@@ -39,8 +39,8 @@ web/.env*.local
 next-env.d.ts
 
 # prisma
-web/prisma/*.db
-web/prisma/*.db-journal
+prisma/*.db
+prisma/*.db-journal
 
 # editor
 .vscode/

@@ -24,7 +24,7 @@ export async function GET(request: Request) {
     return NextResponse.json({ error: "no data" }, { status: 404 });
   }
 
-  const summary = await await readJson<DailySummary>(date, "summary.json");
+  const summary = await readJson<DailySummary>(date, "summary.json");
   if (!summary) {
     return NextResponse.json({ error: "not found", date }, { status: 404 });
   }

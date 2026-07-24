@@ -23,6 +23,7 @@ import {
   Box,
   LineChart as LineChartIcon,
   Download,
+  ChevronDown,
   ChevronLeft,
   ChevronRight,
   FileText,
@@ -96,6 +97,20 @@ import { cn } from "@/lib/utils";
 type SortKey = "score" | "expectedRevenue" | "commissionRate" | "price";
 type VirtualFilter = "all" | "virtual" | "physical";
 
+const SORT_LABELS: Record<SortKey, string> = {
+  score: "综合分",
+  expectedRevenue: "预期收益",
+  commissionRate: "佣金率",
+  price: "价格",
+};
+
+const SORT_OPTIONS: { key: SortKey; label: string }[] = [
+  { key: "score", label: "综合分" },
+  { key: "expectedRevenue", label: "预期收益" },
+  { key: "commissionRate", label: "佣金率" },
+  { key: "price", label: "价格" },
+];
+
 interface TrendPoint {
   date: string;
   total: number;
@@ -161,6 +176,7 @@ export default function DashboardPage() {
 
   const [directionFilter, setDirectionFilter] = useState<string>("all");
   const [platformFilter, setPlatformFilter] = useState<Platform | "all">("all");
+  const [categoryFilter, setCategoryFilter] = useState<string>("all");
   const [virtualFilter, setVirtualFilter] = useState<VirtualFilter>("all");
   const [sortKey, setSortKey] = useState<SortKey>("score");
   const [search, setSearch] = useState("");
@@ -302,19 +318,21 @@ export default function DashboardPage() {
     [selectedDate],
   );
 
-  const handleCompare = useCallback(async () => {
-    if (!compareFrom || !compareTo) {
+  const handleCompare = useCallback(async (from?: string, to?: string) => {
+    const f = from ?? compareFrom;
+    const t = to ?? compareTo;
+    if (!f || !t) {
       toast.error("请选择两个日期");
       return;
     }
-    if (compareFrom === compareTo) {
+    if (f === t) {
       toast.error("请选择两个不同的日期");
       return;
     }
     setCompareLoading(true);
     try {
       const res = await fetch(
-        withBase(`/api/trend-compare?from=${compareFrom}&to=${compareTo}`),
+        withBase(`/api/trend-compare?from=${f}&to=${t}`),
       );
       if (!res.ok) {
         toast.error("对比数据获取失败");
@@ -404,6 +422,15 @@ export default function DashboardPage() {
     }
   }, [crossSearch]);
 
+  // Extract unique categories from current products
+  const categories = useMemo(() => {
+    const set = new Set<string>();
+    for (const p of summary?.topPicks ?? []) {
+      if (p.category) set.add(p.category);
+    }
+    return Array.from(set).sort();
+  }, [summary]);
+
   // Filtered + sorted products
   const filtered = useMemo(() => {
     let list = [...(summary?.topPicks ?? [])];
@@ -412,6 +439,9 @@ export default function DashboardPage() {
     }
     if (platformFilter !== "all") {
       list = list.filter((p) => p.platform === platformFilter);
+    }
+    if (categoryFilter !== "all") {
+      list = list.filter((p) => p.category === categoryFilter);
     }
     if (virtualFilter !== "all") {
       list = list.filter((p) =>
@@ -440,7 +470,7 @@ export default function DashboardPage() {
       }
     });
     return list;
-  }, [summary, directionFilter, platformFilter, search, sortKey]);
+  }, [summary, directionFilter, platformFilter, categoryFilter, virtualFilter, search, sortKey]);
 
   return (
     <div className="flex min-h-screen flex-col bg-gradient-to-b from-slate-50 via-white to-slate-50 dark:from-slate-950 dark:via-slate-900 dark:to-slate-950">
@@ -622,9 +652,11 @@ export default function DashboardPage() {
               hint="展开趋势对比"
               onClick={() => {
                 setCompareOpen(true);
-                setCompareFrom(dates[dates.length - 1] ?? selectedDate);
-                setCompareTo(selectedDate);
-                setTimeout(() => handleCompare(), 100);
+                const from = dates[dates.length - 1] ?? selectedDate;
+                const to = selectedDate;
+                setCompareFrom(from);
+                setCompareTo(to);
+                handleCompare(from, to);
               }}
             />
             <StatCard
@@ -962,7 +994,7 @@ export default function DashboardPage() {
                     <Button
                       size="sm"
                       className="h-8 gap-1.5"
-                      onClick={handleCompare}
+                      onClick={() => handleCompare()}
                       disabled={compareLoading}
                     >
                       {compareLoading ? (
@@ -1020,13 +1052,13 @@ export default function DashboardPage() {
 
         {/* Filter bar */}
         <section className="mb-5">
-          <div className="flex flex-wrap items-center gap-2 rounded-xl border bg-card p-3 shadow-sm">
-            {/* Direction chips — horizontally scrollable on small screens */}
-            <div className="flex max-w-full flex-1 items-center gap-1.5 overflow-x-auto pb-1 [scrollbar-width:none] [&::-webkit-scrollbar]:hidden sm:flex-wrap sm:overflow-visible sm:pb-0">
+          <div className="rounded-xl border bg-card p-3 shadow-sm">
+            {/* Direction chips — 顶部首行，横向排列，超出自动换行 */}
+            <div className="mb-3 flex flex-wrap items-center gap-1.5">
               <button
                 onClick={() => setDirectionFilter("all")}
                 className={cn(
-                  "shrink-0 rounded-full px-3 py-1 text-xs font-medium transition-all",
+                  "rounded-full px-3 py-1 text-xs font-medium transition-all",
                   directionFilter === "all"
                     ? "bg-foreground text-background"
                     : "bg-muted text-muted-foreground hover:bg-muted/70",
@@ -1047,29 +1079,30 @@ export default function DashboardPage() {
               ))}
             </div>
 
-            {/* Virtual / Physical filter toggle */}
-            <div className="flex items-center gap-0.5 rounded-full border bg-muted/40 p-0.5">
-              <FilterToggleBtn
-                active={virtualFilter === "all"}
-                onClick={() => setVirtualFilter("all")}
-              >
-                全部
-              </FilterToggleBtn>
-              <FilterToggleBtn
-                active={virtualFilter === "virtual"}
-                onClick={() => setVirtualFilter("virtual")}
-                icon={<Cloud className="h-3 w-3" />}
-              >
-                虚拟
-              </FilterToggleBtn>
-              <FilterToggleBtn
-                active={virtualFilter === "physical"}
-                onClick={() => setVirtualFilter("physical")}
-                icon={<Box className="h-3 w-3" />}
-              >
-                实体
-              </FilterToggleBtn>
-            </div>
+            <div className="flex flex-wrap items-center gap-2">
+              {/* Virtual / Physical filter toggle */}
+              <div className="flex items-center gap-0.5 rounded-full border bg-muted/40 p-0.5">
+                <FilterToggleBtn
+                  active={virtualFilter === "all"}
+                  onClick={() => setVirtualFilter("all")}
+                >
+                  全部
+                </FilterToggleBtn>
+                <FilterToggleBtn
+                  active={virtualFilter === "virtual"}
+                  onClick={() => setVirtualFilter("virtual")}
+                  icon={<Cloud className="h-3 w-3" />}
+                >
+                  虚拟
+                </FilterToggleBtn>
+                <FilterToggleBtn
+                  active={virtualFilter === "physical"}
+                  onClick={() => setVirtualFilter("physical")}
+                  icon={<Box className="h-3 w-3" />}
+                >
+                  实体
+                </FilterToggleBtn>
+              </div>
 
             {/* Search */}
             <div className="relative">
@@ -1082,36 +1115,81 @@ export default function DashboardPage() {
               />
             </div>
 
-            {/* Platform filter */}
-            <Select
-              value={platformFilter}
-              onValueChange={(v) => setPlatformFilter(v as Platform | "all")}
-            >
-              <SelectTrigger className="h-8 w-24 text-xs">
-                <SelectValue />
-              </SelectTrigger>
-              <SelectContent>
-                <SelectItem value="all">全部平台</SelectItem>
-                {PLATFORMS.map((p) => (
-                  <SelectItem key={p} value={p}>
-                    {PLATFORM_LABELS[p]}
-                  </SelectItem>
+            {/* Category filter */}
+            <DropdownMenu>
+              <DropdownMenuTrigger asChild>
+                <Button variant="outline" size="sm" className="h-8 gap-1 text-xs">
+                  {categoryFilter === "all" ? "分类" : categoryFilter}
+                  <ChevronDown className="h-3 w-3" />
+                </Button>
+              </DropdownMenuTrigger>
+              <DropdownMenuContent align="start" className="max-h-64 overflow-y-auto">
+                <DropdownMenuItem
+                  onClick={() => setCategoryFilter("all")}
+                  className={cn(categoryFilter === "all" && "bg-accent font-medium")}
+                >
+                  全部分类
+                </DropdownMenuItem>
+                {categories.map((c) => (
+                  <DropdownMenuItem
+                    key={c}
+                    onClick={() => setCategoryFilter(c)}
+                    className={cn(categoryFilter === c && "bg-accent font-medium")}
+                  >
+                    {c}
+                  </DropdownMenuItem>
                 ))}
-              </SelectContent>
-            </Select>
+              </DropdownMenuContent>
+            </DropdownMenu>
+
+            {/* Platform filter */}
+            <DropdownMenu>
+              <DropdownMenuTrigger asChild>
+                <Button variant="outline" size="sm" className="h-8 gap-1 text-xs">
+                  {platformFilter === "all" ? "平台" : PLATFORM_LABELS[platformFilter]}
+                  <ChevronDown className="h-3 w-3" />
+                </Button>
+              </DropdownMenuTrigger>
+              <DropdownMenuContent align="start">
+                <DropdownMenuItem
+                  onClick={() => setPlatformFilter("all")}
+                  className={cn(platformFilter === "all" && "bg-accent font-medium")}
+                >
+                  全部平台
+                </DropdownMenuItem>
+                {PLATFORMS.map((p) => (
+                  <DropdownMenuItem
+                    key={p}
+                    onClick={() => setPlatformFilter(p)}
+                    className={cn(platformFilter === p && "bg-accent font-medium")}
+                  >
+                    {PLATFORM_LABELS[p]}
+                  </DropdownMenuItem>
+                ))}
+              </DropdownMenuContent>
+            </DropdownMenu>
 
             {/* Sort */}
-            <Select value={sortKey} onValueChange={(v) => setSortKey(v as SortKey)}>
-              <SelectTrigger className="h-8 w-24 text-xs">
-                <SelectValue />
-              </SelectTrigger>
-              <SelectContent>
-                <SelectItem value="score">综合分</SelectItem>
-                <SelectItem value="expectedRevenue">预期收益</SelectItem>
-                <SelectItem value="commissionRate">佣金率</SelectItem>
-                <SelectItem value="price">价格</SelectItem>
-              </SelectContent>
-            </Select>
+            <DropdownMenu>
+              <DropdownMenuTrigger asChild>
+                <Button variant="outline" size="sm" className="h-8 gap-1 text-xs">
+                  {SORT_LABELS[sortKey]}
+                  <ChevronDown className="h-3 w-3" />
+                </Button>
+              </DropdownMenuTrigger>
+              <DropdownMenuContent align="start">
+                {SORT_OPTIONS.map((o) => (
+                  <DropdownMenuItem
+                    key={o.key}
+                    onClick={() => setSortKey(o.key)}
+                    className={cn(sortKey === o.key && "bg-accent font-medium")}
+                  >
+                    {o.label}
+                  </DropdownMenuItem>
+                ))}
+              </DropdownMenuContent>
+            </DropdownMenu>
+          </div>
           </div>
         </section>
 
@@ -1133,6 +1211,7 @@ export default function DashboardPage() {
                   const filteredItems = items.filter(
                     (p) =>
                       (platformFilter === "all" || p.platform === platformFilter) &&
+                      (categoryFilter === "all" || p.category === categoryFilter) &&
                       (virtualFilter === "all" ||
                         (virtualFilter === "virtual" ? p.isVirtual : !p.isVirtual)) &&
                       (search.trim() === "" ||
@@ -1167,6 +1246,7 @@ export default function DashboardPage() {
                     groupedByDirection.other.filter(
                       (p) =>
                         (platformFilter === "all" || p.platform === platformFilter) &&
+                        (categoryFilter === "all" || p.category === categoryFilter) &&
                         (virtualFilter === "all" ||
                           (virtualFilter === "virtual" ? p.isVirtual : !p.isVirtual)),
                     ),
@@ -1203,7 +1283,7 @@ export default function DashboardPage() {
           <div className="flex items-center gap-1.5">
             <Zap className="h-3.5 w-3.5 text-emerald-500" />
             <span className="font-medium text-foreground">Amazon Skills 选品中心</span>
-            <span>· 数据源：Amazon / 淘宝客 / 京东 / Google</span>
+            <span>· 数据源：{PLATFORMS.map((p) => PLATFORM_LABELS[p]).join(" / ")}</span>
           </div>
           <div className="flex items-center gap-3">
             <span>AI：z-ai-web-dev-sdk</span>

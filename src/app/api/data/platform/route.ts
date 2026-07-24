@@ -1,13 +1,11 @@
-// GET /api/data/platform?date=YYYY-MM-DD&platform=amazon|taobao|jd
+// GET /api/data/platform?date=YYYY-MM-DD&platform=amazon|taobao|jd|google
 
 export const runtime = "edge";
 
 import { NextResponse } from "next/server";
 import { readJson, listDates } from "@/lib/affiliate/data-writer";
 import type { PickedProduct, Platform } from "@/lib/affiliate/types";
-
-
-const VALID: Platform[] = ["amazon", "taobao", "jd", ];
+import { PLATFORMS } from "@/lib/affiliate/types";
 
 export async function GET(request: Request) {
   
@@ -15,7 +13,7 @@ export async function GET(request: Request) {
   let date = searchParams.get("date");
   const platform = searchParams.get("platform") as Platform | null;
 
-  if (!platform || !VALID.includes(platform)) {
+  if (!platform || !(PLATFORMS as readonly string[]).includes(platform)) {
     return NextResponse.json({ error: "invalid platform" }, { status: 400 });
   }
   if (!date) {
@@ -26,6 +24,6 @@ export async function GET(request: Request) {
     return NextResponse.json({ error: "no data yet" }, { status: 404 });
   }
 
-  const items = await await readJson<PickedProduct[]>(date, `${platform}.json`);
+  const items = await readJson<PickedProduct[]>(date, `${platform}.json`);
   return NextResponse.json({ date, platform, items: items ?? [] });
 }

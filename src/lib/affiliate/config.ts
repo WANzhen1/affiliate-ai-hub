@@ -43,7 +43,9 @@ export const config = {
       .split(",")
       .map((s) => s.trim())
       .filter(Boolean),
-    token: process.env.RECEIVE_TOKEN,
+    // v3.9: 统一使用站点级 Bearer (与 matrix-sync SDK 一致)
+    // matrix-tentans /api/feishu-wikis/ingest + /api/full-pipeline/* 都用 site-auth.ts 校验
+    token: process.env.MATRIX_API_KEY,
   },
   dataDir: DATA_DIR,
   // Concurrency-limit retry policy (per user instruction).

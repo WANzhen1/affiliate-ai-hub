@@ -71,7 +71,13 @@ async function fetchJson<T>(url: string): Promise<T | null> {
 
 export async function readJson<T = unknown>(...segments: string[]): Promise<T | null> {
   const url = getBaseUrl() + "/" + segments.join("/");
-  return fetchJson<T>(url);
+  let result = await fetchJson<T>(url);
+  // GitHub 不可达时回退到本地数据（仅开发环境，生产环境 GitHub 始终可达）
+  if (!result && !isLocalDev() && process.env.NODE_ENV === "development") {
+    const localUrl = "http://localhost:3000" + LOCAL_DATA_BASE + "/" + segments.join("/");
+    result = await fetchJson<T>(localUrl);
+  }
+  return result;
 }
 
 /**
@@ -118,6 +124,8 @@ async function fetchIndex(): Promise<IndexShape | null> {
   return idx;
 }
 
+export { fetchIndex };
+
 /**
  * List available dates (newest first).
  *
@@ -152,6 +160,18 @@ export async function listDates(): Promise<string[]> {
   }
 
   for (const d of dates) pushUnique(d);
+
+  // 本地开发：从本地 API 获取完整日期列表（覆盖 .data/ 目录扫描结果）
+  if (process.env.NODE_ENV === "development") {
+    try {
+      const res = await fetch("http://localhost:3000/api/data/dates");
+      if (res.ok) {
+        const data = await res.json();
+        for (const d of (data.dates ?? [])) pushUnique(d);
+      }
+    } catch { /* local API not available, use dates from index.json */ }
+  }
+
   return out;
 }
 

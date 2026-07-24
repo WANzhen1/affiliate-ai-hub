@@ -68,8 +68,8 @@ export async function GET(request: Request) {
     return NextResponse.json({ error: "no data" }, { status: 404 });
   }
 
-  const fromSummary = await await readJson<DailySummary>(fromDate, "summary.json");
-  const toSummary = await await readJson<DailySummary>(toDate, "summary.json");
+  const fromSummary = await readJson<DailySummary>(fromDate, "summary.json");
+  const toSummary = await readJson<DailySummary>(toDate, "summary.json");
   if (!fromSummary || !toSummary) {
     return NextResponse.json(
       { error: "summary not found", from: fromDate, to: toDate },
