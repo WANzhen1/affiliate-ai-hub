@@ -1,7 +1,7 @@
 // GET /api/data/dates — list of available dates (newest first).
 // Node.js runtime: 扫描本地 .data/ 目录获取所有日期，同时合并远程 index.json 数据
 export const runtime = "nodejs";
-
+export const runtime = 'edge';
 import { NextResponse } from "next/server";
 import { readdir } from "fs/promises";
 import { join } from "path";
