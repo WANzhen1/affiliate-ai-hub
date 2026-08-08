@@ -3,6 +3,7 @@
 import { NextResponse } from "next/server"
 import { readFile } from "fs/promises"
 import { join } from "path"
+export const runtime = 'edge';
 
 export const runtime = "nodejs"
 
