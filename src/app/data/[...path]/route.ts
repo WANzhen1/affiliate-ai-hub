@@ -5,8 +5,6 @@ import { readFile } from "fs/promises"
 import { join } from "path"
 export const runtime = 'edge';
 
-export const runtime = "nodejs"
-
 export async function GET(
   _request: Request,
   { params }: { params: Promise<{ path: string[] }> },
