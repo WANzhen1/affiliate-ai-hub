@@ -1,0 +1,467 @@
+[
+  {
+    "id": "gg-1787103377388-21-2hdbh4",
+    "platform": "google",
+    "title": "全国三网话费充值100元 即时到账",
+    "price": 20.69,
+    "originalPrice": 23.79,
+    "commissionRate": 6.54,
+    "salesVolume": 98565,
+    "rating": 4.94,
+    "reviewCount": 34080,
+    "category": "点卡充值",
+    "imageUrl": "https://picsum.photos/seed/gg21phonerecharge/400/300",
+    "link": "https://shopping.google.com/",
+    "shopName": "Google Shopping",
+    "isVirtual": true,
+    "deliveryType": "digital",
+    "meta": {
+      "source": "mock"
+    },
+    "score": 69.1,
+    "expectedRevenue": 1.35,
+    "aiCopy": "爆款推荐｜点卡充值好物，佣金6.54%，预期收益$1.35",
+    "aiTags": [
+      "google",
+      "点卡充值",
+      "热销",
+      "精选"
+    ],
+    "reason": "高佣金+98565销量，转化预期佳",
+    "directionId": "points-cards"
+  },
+  {
+    "id": "gg-1787103377388-2-w30txr",
+    "platform": "google",
+    "title": "全国三网话费充值100元 即时到账",
+    "price": 17.36,
+    "originalPrice": 21.35,
+    "commissionRate": 5.59,
+    "salesVolume": 41520,
+    "rating": 4.82,
+    "reviewCount": 87410,
+    "category": "点卡充值",
+    "imageUrl": "https://picsum.photos/seed/gg2phonerecharge/400/300",
+    "link": "https://shopping.google.com/",
+    "shopName": "Google Shopping",
+    "isVirtual": true,
+    "deliveryType": "digital",
+    "meta": {
+      "source": "mock"
+    },
+    "score": 64.58,
+    "expectedRevenue": 0.97,
+    "aiCopy": "爆款推荐｜点卡充值好物，佣金5.59%，预期收益$0.97",
+    "aiTags": [
+      "google",
+      "点卡充值",
+      "热销",
+      "精选"
+    ],
+    "reason": "高佣金+41520销量，转化预期佳",
+    "directionId": "points-cards"
+  },
+  {
+    "id": "gg-1787103377388-20-am1a1q",
+    "platform": "google",
+    "title": "蓝山挂耳咖啡 10g×20片 新鲜烘焙",
+    "price": 12.05,
+    "originalPrice": 15.3,
+    "commissionRate": 6.54,
+    "salesVolume": 7590,
+    "rating": 4.75,
+    "reviewCount": 11111,
+    "category": "食品保健",
+    "imageUrl": "https://picsum.photos/seed/gg20dripcoffee/400/300",
+    "link": "https://shopping.google.com/",
+    "shopName": "Google Shopping",
+    "isVirtual": false,
+    "deliveryType": "physical",
+    "meta": {
+      "source": "mock"
+    },
+    "score": 57.83,
+    "expectedRevenue": 0.79,
+    "aiCopy": "爆款推荐｜食品保健好物，佣金6.54%，预期收益$0.79",
+    "aiTags": [
+      "google",
+      "食品保健",
+      "热销",
+      "精选"
+    ],
+    "reason": "高佣金+7590销量，转化预期佳",
+    "directionId": "food-health"
+  },
+  {
+    "id": "gg-1787103377388-8-qy01mr",
+    "platform": "google",
+    "title": "无线降噪蓝牙耳机 头戴式 Hi-Res 高保真音质",
+    "price": 64.78,
+    "originalPrice": 82.92,
+    "commissionRate": 5.35,
+    "salesVolume": 2160,
+    "rating": 4.65,
+    "reviewCount": 3203,
+    "category": "数码电子",
+    "imageUrl": "https://picsum.photos/seed/gg8wirelessheadphones/400/300",
+    "link": "https://shopping.google.com/",
+    "shopName": "Google Shopping",
+    "isVirtual": false,
+    "deliveryType": "physical",
+    "meta": {
+      "source": "mock"
+    },
+    "score": 57.73,
+    "expectedRevenue": 3.47,
+    "aiCopy": "爆款推荐｜数码电子好物，佣金5.35%，预期收益$3.47",
+    "aiTags": [
+      "google",
+      "数码电子",
+      "热销",
+      "精选"
+    ],
+    "reason": "高佣金+2160销量，转化预期佳",
+    "directionId": "digital-electronics"
+  },
+  {
+    "id": "gg-1787103377388-3-or22hp",
+    "platform": "google",
+    "title": "蓝山挂耳咖啡 10g×20片 新鲜烘焙",
+    "price": 10.33,
+    "originalPrice": 12.91,
+    "commissionRate": 6.72,
+    "salesVolume": 7451,
+    "rating": 4.8,
+    "reviewCount": 3910,
+    "category": "食品保健",
+    "imageUrl": "https://picsum.photos/seed/gg3dripcoffee/400/300",
+    "link": "https://shopping.google.com/",
+    "shopName": "Google Shopping",
+    "isVirtual": false,
+    "deliveryType": "physical",
+    "meta": {
+      "source": "mock"
+    },
+    "score": 57.71,
+    "expectedRevenue": 0.69,
+    "aiCopy": "爆款推荐｜食品保健好物，佣金6.72%，预期收益$0.69",
+    "aiTags": [
+      "google",
+      "食品保健",
+      "热销",
+      "精选"
+    ],
+    "reason": "高佣金+7451销量，转化预期佳",
+    "directionId": "food-health"
+  },
+  {
+    "id": "gg-1787103377388-0-7d4zra",
+    "platform": "google",
+    "title": "无线降噪蓝牙耳机 头戴式 Hi-Res 高保真音质",
+    "price": 49.42,
+    "originalPrice": 56.34,
+    "commissionRate": 6.56,
+    "salesVolume": 1614,
+    "rating": 4.89,
+    "reviewCount": 998,
+    "category": "数码电子",
+    "imageUrl": "https://picsum.photos/seed/gg0wirelessheadphones/400/300",
+    "link": "https://shopping.google.com/",
+    "shopName": "Google Shopping",
+    "isVirtual": false,
+    "deliveryType": "physical",
+    "meta": {
+      "source": "mock"
+    },
+    "score": 57.64,
+    "expectedRevenue": 3.24,
+    "aiCopy": "爆款推荐｜数码电子好物，佣金6.56%，预期收益$3.24",
+    "aiTags": [
+      "google",
+      "数码电子",
+      "热销",
+      "精选"
+    ],
+    "reason": "高佣金+1614销量，转化预期佳",
+    "directionId": "digital-electronics"
+  },
+  {
+    "id": "gg-1787103377388-22-q9kl8h",
+    "platform": "google",
+    "title": "4K视频素材包200GB 短视频剪辑商用授权",
+    "price": 63.12,
+    "originalPrice": 80.79,
+    "commissionRate": 3.88,
+    "salesVolume": 2483,
+    "rating": 4.78,
+    "reviewCount": 4329,
+    "category": "数字内容",
+    "imageUrl": "https://picsum.photos/seed/gg22videofootage/400/300",
+    "link": "https://shopping.google.com/",
+    "shopName": "Google Shopping",
+    "isVirtual": true,
+    "deliveryType": "digital",
+    "meta": {
+      "source": "mock"
+    },
+    "score": 57.52,
+    "expectedRevenue": 2.45,
+    "aiCopy": "爆款推荐｜数字内容好物，佣金3.88%，预期收益$2.45",
+    "aiTags": [
+      "google",
+      "数字内容",
+      "热销",
+      "精选"
+    ],
+    "reason": "高佣金+2483销量，转化预期佳",
+    "directionId": "digital-content"
+  },
+  {
+    "id": "gg-1787103377388-6-4jrmq8",
+    "platform": "google",
+    "title": "瑜伽垫加厚防滑 TPE环保 初学者健身",
+    "price": 15.69,
+    "originalPrice": 18.67,
+    "commissionRate": 3.79,
+    "salesVolume": 7276,
+    "rating": 4.8,
+    "reviewCount": 10338,
+    "category": "运动户外",
+    "imageUrl": "https://picsum.photos/seed/gg6yogamat/400/300",
+    "link": "https://shopping.google.com/",
+    "shopName": "Google Shopping",
+    "isVirtual": false,
+    "deliveryType": "physical",
+    "meta": {
+      "source": "mock"
+    },
+    "score": 57.31,
+    "expectedRevenue": 0.59,
+    "aiCopy": "爆款推荐｜运动户外好物，佣金3.79%，预期收益$0.59",
+    "aiTags": [
+      "google",
+      "运动户外",
+      "热销",
+      "精选"
+    ],
+    "reason": "高佣金+7276销量，转化预期佳",
+    "directionId": "sports-fitness"
+  },
+  {
+    "id": "gg-1787103377388-9-lxotlp",
+    "platform": "google",
+    "title": "瑜伽垫加厚防滑 TPE环保 初学者健身",
+    "price": 14.04,
+    "originalPrice": 17.97,
+    "commissionRate": 5.77,
+    "salesVolume": 5841,
+    "rating": 4.69,
+    "reviewCount": 9473,
+    "category": "运动户外",
+    "imageUrl": "https://picsum.photos/seed/gg9yogamat/400/300",
+    "link": "https://shopping.google.com/",
+    "shopName": "Google Shopping",
+    "isVirtual": false,
+    "deliveryType": "physical",
+    "meta": {
+      "source": "mock"
+    },
+    "score": 56.67,
+    "expectedRevenue": 0.81,
+    "aiCopy": "爆款推荐｜运动户外好物，佣金5.77%，预期收益$0.81",
+    "aiTags": [
+      "google",
+      "运动户外",
+      "热销",
+      "精选"
+    ],
+    "reason": "高佣金+5841销量，转化预期佳",
+    "directionId": "sports-fitness"
+  },
+  {
+    "id": "gg-1787103377388-14-5e1i5q",
+    "platform": "google",
+    "title": "便携式移动电源 20000mAh PD快充 数显",
+    "price": 28.49,
+    "originalPrice": 35.33,
+    "commissionRate": 4.03,
+    "salesVolume": 3281,
+    "rating": 4.83,
+    "reviewCount": 5302,
+    "category": "数码电子",
+    "imageUrl": "https://picsum.photos/seed/gg14powerbank/400/300",
+    "link": "https://shopping.google.com/",
+    "shopName": "Google Shopping",
+    "isVirtual": false,
+    "deliveryType": "physical",
+    "meta": {
+      "source": "mock"
+    },
+    "score": 56.27,
+    "expectedRevenue": 1.15,
+    "aiCopy": "爆款推荐｜数码电子好物，佣金4.03%，预期收益$1.15",
+    "aiTags": [
+      "google",
+      "数码电子",
+      "热销",
+      "精选"
+    ],
+    "reason": "高佣金+3281销量，转化预期佳",
+    "directionId": "digital-electronics"
+  },
+  {
+    "id": "gg-1787103377388-16-dv5ec5",
+    "platform": "google",
+    "title": "无线降噪蓝牙耳机 头戴式 Hi-Res 高保真音质",
+    "price": 55.23,
+    "originalPrice": 69.59,
+    "commissionRate": 5.01,
+    "salesVolume": 1372,
+    "rating": 4.84,
+    "reviewCount": 780,
+    "category": "数码电子",
+    "imageUrl": "https://picsum.photos/seed/gg16wirelessheadphones/400/300",
+    "link": "https://shopping.google.com/",
+    "shopName": "Google Shopping",
+    "isVirtual": false,
+    "deliveryType": "physical",
+    "meta": {
+      "source": "mock"
+    },
+    "score": 56.22,
+    "expectedRevenue": 2.77,
+    "aiCopy": "爆款推荐｜数码电子好物，佣金5.01%，预期收益$2.77",
+    "aiTags": [
+      "google",
+      "数码电子",
+      "热销",
+      "精选"
+    ],
+    "reason": "高佣金+1372销量，转化预期佳",
+    "directionId": "digital-electronics"
+  },
+  {
+    "id": "gg-1787103377388-18-22vqok",
+    "platform": "google",
+    "title": "空气炸锅家用无油 5.5L大容量 智能预设菜单",
+    "price": 55.75,
+    "originalPrice": 71.36,
+    "commissionRate": 3.31,
+    "salesVolume": 2146,
+    "rating": 4.8,
+    "reviewCount": 3619,
+    "category": "厨房小电",
+    "imageUrl": "https://picsum.photos/seed/gg18airfryer/400/300",
+    "link": "https://shopping.google.com/",
+    "shopName": "Google Shopping",
+    "isVirtual": false,
+    "deliveryType": "physical",
+    "meta": {
+      "source": "mock"
+    },
+    "score": 56.11,
+    "expectedRevenue": 1.85,
+    "aiCopy": "爆款推荐｜厨房小电好物，佣金3.31%，预期收益$1.85",
+    "aiTags": [
+      "google",
+      "厨房小电",
+      "热销",
+      "精选"
+    ],
+    "reason": "高佣金+2146销量，转化预期佳",
+    "directionId": "kitchen-appliances"
+  },
+  {
+    "id": "gg-1787103377388-23-y64sz9",
+    "platform": "google",
+    "title": "瑜伽垫加厚防滑 TPE环保 初学者健身",
+    "price": 16.9,
+    "originalPrice": 20.62,
+    "commissionRate": 4.42,
+    "salesVolume": 5455,
+    "rating": 4.65,
+    "reviewCount": 8797,
+    "category": "运动户外",
+    "imageUrl": "https://picsum.photos/seed/gg23yogamat/400/300",
+    "link": "https://shopping.google.com/",
+    "shopName": "Google Shopping",
+    "isVirtual": false,
+    "deliveryType": "physical",
+    "meta": {
+      "source": "mock"
+    },
+    "score": 56.06,
+    "expectedRevenue": 0.75,
+    "aiCopy": "爆款推荐｜运动户外好物，佣金4.42%，预期收益$0.75",
+    "aiTags": [
+      "google",
+      "运动户外",
+      "热销",
+      "精选"
+    ],
+    "reason": "高佣金+5455销量，转化预期佳",
+    "directionId": "sports-fitness"
+  },
+  {
+    "id": "gg-1787103377388-1-5og998",
+    "platform": "google",
+    "title": "蓝山挂耳咖啡 10g×20片 新鲜烘焙",
+    "price": 10.16,
+    "originalPrice": 13.21,
+    "commissionRate": 4.59,
+    "salesVolume": 5515,
+    "rating": 4.74,
+    "reviewCount": 13705,
+    "category": "食品保健",
+    "imageUrl": "https://picsum.photos/seed/gg1dripcoffee/400/300",
+    "link": "https://shopping.google.com/",
+    "shopName": "Google Shopping",
+    "isVirtual": false,
+    "deliveryType": "physical",
+    "meta": {
+      "source": "mock"
+    },
+    "score": 55.64,
+    "expectedRevenue": 0.47,
+    "aiCopy": "爆款推荐｜食品保健好物，佣金4.59%，预期收益$0.47",
+    "aiTags": [
+      "google",
+      "食品保健",
+      "热销",
+      "精选"
+    ],
+    "reason": "高佣金+5515销量，转化预期佳",
+    "directionId": "food-health"
+  },
+  {
+    "id": "gg-1787103377388-17-7nwvdq",
+    "platform": "google",
+    "title": "破壁机家用静音 加热多功能辅食料理",
+    "price": 92.18,
+    "originalPrice": 104.16,
+    "commissionRate": 3.43,
+    "salesVolume": 1649,
+    "rating": 4.48,
+    "reviewCount": 2553,
+    "category": "厨房小电",
+    "imageUrl": "https://picsum.photos/seed/gg17blenderkitchen/400/300",
+    "link": "https://shopping.google.com/",
+    "shopName": "Google Shopping",
+    "isVirtual": false,
+    "deliveryType": "physical",
+    "meta": {
+      "source": "mock"
+    },
+    "score": 55.57,
+    "expectedRevenue": 3.16,
+    "aiCopy": "爆款推荐｜厨房小电好物，佣金3.43%，预期收益$3.16",
+    "aiTags": [
+      "google",
+      "厨房小电",
+      "热销",
+      "精选"
+    ],
+    "reason": "高佣金+1649销量，转化预期佳",
+    "directionId": "kitchen-appliances"
+  }
+]
