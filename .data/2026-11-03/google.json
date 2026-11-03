@@ -1,0 +1,467 @@
+[
+  {
+    "id": "gg-1793685698344-5-rd542g",
+    "platform": "google",
+    "title": "UI/UX设计师就业班 Figma+作品集",
+    "price": 225.52,
+    "originalPrice": 290.92,
+    "commissionRate": 6.08,
+    "salesVolume": 3535,
+    "rating": 4.81,
+    "reviewCount": 6423,
+    "category": "在线课程",
+    "imageUrl": "https://picsum.photos/seed/gg5designcourse/400/300",
+    "link": "https://shopping.google.com/",
+    "shopName": "Google Shopping",
+    "isVirtual": true,
+    "deliveryType": "digital",
+    "meta": {
+      "source": "mock"
+    },
+    "score": 66.45,
+    "expectedRevenue": 13.71,
+    "aiCopy": "爆款推荐｜在线课程好物，佣金6.08%，预期收益$13.71",
+    "aiTags": [
+      "google",
+      "在线课程",
+      "热销",
+      "精选"
+    ],
+    "reason": "高佣金+3535销量，转化预期佳",
+    "directionId": "online-courses"
+  },
+  {
+    "id": "gg-1793685698344-24-oomcu1",
+    "platform": "google",
+    "title": "全国三网话费充值100元 即时到账",
+    "price": 16.94,
+    "originalPrice": 20.16,
+    "commissionRate": 3.5,
+    "salesVolume": 55723,
+    "rating": 4.83,
+    "reviewCount": 75625,
+    "category": "点卡充值",
+    "imageUrl": "https://picsum.photos/seed/gg24phonerecharge/400/300",
+    "link": "https://shopping.google.com/",
+    "shopName": "Google Shopping",
+    "isVirtual": true,
+    "deliveryType": "digital",
+    "meta": {
+      "source": "mock"
+    },
+    "score": 64.54,
+    "expectedRevenue": 0.59,
+    "aiCopy": "爆款推荐｜点卡充值好物，佣金3.5%，预期收益$0.59",
+    "aiTags": [
+      "google",
+      "点卡充值",
+      "热销",
+      "精选"
+    ],
+    "reason": "高佣金+55723销量，转化预期佳",
+    "directionId": "points-cards"
+  },
+  {
+    "id": "gg-1793685698344-7-7robo0",
+    "platform": "google",
+    "title": "京东PLUS会员年卡 京豆+免邮+专属价",
+    "price": 30.01,
+    "originalPrice": 37.81,
+    "commissionRate": 6.23,
+    "salesVolume": 18761,
+    "rating": 4.85,
+    "reviewCount": 26110,
+    "category": "会员点卡",
+    "imageUrl": "https://picsum.photos/seed/gg7membershipcard/400/300",
+    "link": "https://shopping.google.com/",
+    "shopName": "Google Shopping",
+    "isVirtual": true,
+    "deliveryType": "digital",
+    "meta": {
+      "source": "mock"
+    },
+    "score": 63.93,
+    "expectedRevenue": 1.87,
+    "aiCopy": "爆款推荐｜会员点卡好物，佣金6.23%，预期收益$1.87",
+    "aiTags": [
+      "google",
+      "会员点卡",
+      "热销",
+      "精选"
+    ],
+    "reason": "高佣金+18761销量，转化预期佳",
+    "directionId": "membership-cards"
+  },
+  {
+    "id": "gg-1793685698344-21-680y9r",
+    "platform": "google",
+    "title": "中国移动流量包 30GB月包 全国通用",
+    "price": 6.5,
+    "originalPrice": 7.87,
+    "commissionRate": 6.01,
+    "salesVolume": 54444,
+    "rating": 4.64,
+    "reviewCount": 85235,
+    "category": "点卡充值",
+    "imageUrl": "https://picsum.photos/seed/gg21dataplan/400/300",
+    "link": "https://shopping.google.com/",
+    "shopName": "Google Shopping",
+    "isVirtual": true,
+    "deliveryType": "digital",
+    "meta": {
+      "source": "mock"
+    },
+    "score": 62.8,
+    "expectedRevenue": 0.39,
+    "aiCopy": "爆款推荐｜点卡充值好物，佣金6.01%，预期收益$0.39",
+    "aiTags": [
+      "google",
+      "点卡充值",
+      "热销",
+      "精选"
+    ],
+    "reason": "高佣金+54444销量，转化预期佳",
+    "directionId": "points-cards"
+  },
+  {
+    "id": "gg-1793685698344-20-3bmic1",
+    "platform": "google",
+    "title": "中国移动流量包 30GB月包 全国通用",
+    "price": 6.46,
+    "originalPrice": 7.62,
+    "commissionRate": 5.73,
+    "salesVolume": 41301,
+    "rating": 4.72,
+    "reviewCount": 91891,
+    "category": "点卡充值",
+    "imageUrl": "https://picsum.photos/seed/gg20dataplan/400/300",
+    "link": "https://shopping.google.com/",
+    "shopName": "Google Shopping",
+    "isVirtual": true,
+    "deliveryType": "digital",
+    "meta": {
+      "source": "mock"
+    },
+    "score": 62.17,
+    "expectedRevenue": 0.37,
+    "aiCopy": "爆款推荐｜点卡充值好物，佣金5.73%，预期收益$0.37",
+    "aiTags": [
+      "google",
+      "点卡充值",
+      "热销",
+      "精选"
+    ],
+    "reason": "高佣金+41301销量，转化预期佳",
+    "directionId": "points-cards"
+  },
+  {
+    "id": "gg-1793685698344-23-ib6pur",
+    "platform": "google",
+    "title": "4K高清投影仪 家庭影院 智能自动对焦",
+    "price": 348.67,
+    "originalPrice": 404.46,
+    "commissionRate": 6.79,
+    "salesVolume": 414,
+    "rating": 4.73,
+    "reviewCount": 582,
+    "category": "数码电子",
+    "imageUrl": "https://picsum.photos/seed/gg23projector4k/400/300",
+    "link": "https://shopping.google.com/",
+    "shopName": "Google Shopping",
+    "isVirtual": false,
+    "deliveryType": "physical",
+    "meta": {
+      "source": "mock"
+    },
+    "score": 61.3,
+    "expectedRevenue": 23.67,
+    "aiCopy": "爆款推荐｜数码电子好物，佣金6.79%，预期收益$23.67",
+    "aiTags": [
+      "google",
+      "数码电子",
+      "热销",
+      "精选"
+    ],
+    "reason": "高佣金+414销量，转化预期佳",
+    "directionId": "digital-electronics"
+  },
+  {
+    "id": "gg-1793685698344-19-p36zh9",
+    "platform": "google",
+    "title": "中国移动流量包 30GB月包 全国通用",
+    "price": 5.92,
+    "originalPrice": 7.1,
+    "commissionRate": 4.26,
+    "salesVolume": 29947,
+    "rating": 4.77,
+    "reviewCount": 86314,
+    "category": "点卡充值",
+    "imageUrl": "https://picsum.photos/seed/gg19dataplan/400/300",
+    "link": "https://shopping.google.com/",
+    "shopName": "Google Shopping",
+    "isVirtual": true,
+    "deliveryType": "digital",
+    "meta": {
+      "source": "mock"
+    },
+    "score": 60.82,
+    "expectedRevenue": 0.25,
+    "aiCopy": "爆款推荐｜点卡充值好物，佣金4.26%，预期收益$0.25",
+    "aiTags": [
+      "google",
+      "点卡充值",
+      "热销",
+      "精选"
+    ],
+    "reason": "高佣金+29947销量，转化预期佳",
+    "directionId": "points-cards"
+  },
+  {
+    "id": "gg-1793685698344-8-9kmugz",
+    "platform": "google",
+    "title": "玻尿酸保湿精华液 烟酰胺提亮 30ml",
+    "price": 24.95,
+    "originalPrice": 31.69,
+    "commissionRate": 6.38,
+    "salesVolume": 8826,
+    "rating": 4.75,
+    "reviewCount": 6656,
+    "category": "美妆个护",
+    "imageUrl": "https://picsum.photos/seed/gg8serumskincare/400/300",
+    "link": "https://shopping.google.com/",
+    "shopName": "Google Shopping",
+    "isVirtual": false,
+    "deliveryType": "physical",
+    "meta": {
+      "source": "mock"
+    },
+    "score": 60.28,
+    "expectedRevenue": 1.59,
+    "aiCopy": "爆款推荐｜美妆个护好物，佣金6.38%，预期收益$1.59",
+    "aiTags": [
+      "google",
+      "美妆个护",
+      "热销",
+      "精选"
+    ],
+    "reason": "高佣金+8826销量，转化预期佳",
+    "directionId": "beauty-care"
+  },
+  {
+    "id": "gg-1793685698344-14-znvwv3",
+    "platform": "google",
+    "title": "智能手表运动健康监测 心率血氧 GPS 长续航",
+    "price": 94.99,
+    "originalPrice": 112.09,
+    "commissionRate": 6.52,
+    "salesVolume": 1750,
+    "rating": 4.73,
+    "reviewCount": 1822,
+    "category": "数码电子",
+    "imageUrl": "https://picsum.photos/seed/gg14smartwatch/400/300",
+    "link": "https://shopping.google.com/",
+    "shopName": "Google Shopping",
+    "isVirtual": false,
+    "deliveryType": "physical",
+    "meta": {
+      "source": "mock"
+    },
+    "score": 59.88,
+    "expectedRevenue": 6.19,
+    "aiCopy": "爆款推荐｜数码电子好物，佣金6.52%，预期收益$6.19",
+    "aiTags": [
+      "google",
+      "数码电子",
+      "热销",
+      "精选"
+    ],
+    "reason": "高佣金+1750销量，转化预期佳",
+    "directionId": "digital-electronics"
+  },
+  {
+    "id": "gg-1793685698344-9-vhz1vq",
+    "platform": "google",
+    "title": "京东E卡500元 自用送礼皆宜 不记名",
+    "price": 89.58,
+    "originalPrice": 103.02,
+    "commissionRate": 3.4,
+    "salesVolume": 1889,
+    "rating": 4.98,
+    "reviewCount": 16090,
+    "category": "点卡充值",
+    "imageUrl": "https://picsum.photos/seed/gg9giftcard/400/300",
+    "link": "https://shopping.google.com/",
+    "shopName": "Google Shopping",
+    "isVirtual": true,
+    "deliveryType": "digital",
+    "meta": {
+      "source": "mock"
+    },
+    "score": 58.4,
+    "expectedRevenue": 3.05,
+    "aiCopy": "爆款推荐｜点卡充值好物，佣金3.4%，预期收益$3.05",
+    "aiTags": [
+      "google",
+      "点卡充值",
+      "热销",
+      "精选"
+    ],
+    "reason": "高佣金+1889销量，转化预期佳",
+    "directionId": "points-cards"
+  },
+  {
+    "id": "gg-1793685698344-6-oy2rax",
+    "platform": "google",
+    "title": "便携式移动电源 20000mAh PD快充 数显",
+    "price": 26.88,
+    "originalPrice": 30.37,
+    "commissionRate": 5.78,
+    "salesVolume": 3370,
+    "rating": 4.9,
+    "reviewCount": 2821,
+    "category": "数码电子",
+    "imageUrl": "https://picsum.photos/seed/gg6powerbank/400/300",
+    "link": "https://shopping.google.com/",
+    "shopName": "Google Shopping",
+    "isVirtual": false,
+    "deliveryType": "physical",
+    "meta": {
+      "source": "mock"
+    },
+    "score": 57.6,
+    "expectedRevenue": 1.55,
+    "aiCopy": "爆款推荐｜数码电子好物，佣金5.78%，预期收益$1.55",
+    "aiTags": [
+      "google",
+      "数码电子",
+      "热销",
+      "精选"
+    ],
+    "reason": "高佣金+3370销量，转化预期佳",
+    "directionId": "digital-electronics"
+  },
+  {
+    "id": "gg-1793685698344-16-ghrugc",
+    "platform": "google",
+    "title": "婴儿纸尿裤超薄透气 S-XL全码 整箱装",
+    "price": 40.35,
+    "originalPrice": 47.61,
+    "commissionRate": 4.43,
+    "salesVolume": 3166,
+    "rating": 4.77,
+    "reviewCount": 11211,
+    "category": "母婴玩具",
+    "imageUrl": "https://picsum.photos/seed/gg16babydiapers/400/300",
+    "link": "https://shopping.google.com/",
+    "shopName": "Google Shopping",
+    "isVirtual": false,
+    "deliveryType": "physical",
+    "meta": {
+      "source": "mock"
+    },
+    "score": 57.2,
+    "expectedRevenue": 1.79,
+    "aiCopy": "爆款推荐｜母婴玩具好物，佣金4.43%，预期收益$1.79",
+    "aiTags": [
+      "google",
+      "母婴玩具",
+      "热销",
+      "精选"
+    ],
+    "reason": "高佣金+3166销量，转化预期佳",
+    "directionId": "mother-baby"
+  },
+  {
+    "id": "gg-1793685698344-13-sxybge",
+    "platform": "google",
+    "title": "便携式榨汁机 USB充电 随行杯果汁机",
+    "price": 19.52,
+    "originalPrice": 22.25,
+    "commissionRate": 4.7,
+    "salesVolume": 5434,
+    "rating": 4.76,
+    "reviewCount": 6745,
+    "category": "厨房小电",
+    "imageUrl": "https://picsum.photos/seed/gg13portablejuicer/400/300",
+    "link": "https://shopping.google.com/",
+    "shopName": "Google Shopping",
+    "isVirtual": false,
+    "deliveryType": "physical",
+    "meta": {
+      "source": "mock"
+    },
+    "score": 57.08,
+    "expectedRevenue": 0.92,
+    "aiCopy": "爆款推荐｜厨房小电好物，佣金4.7%，预期收益$0.92",
+    "aiTags": [
+      "google",
+      "厨房小电",
+      "热销",
+      "精选"
+    ],
+    "reason": "高佣金+5434销量，转化预期佳",
+    "directionId": "kitchen-appliances"
+  },
+  {
+    "id": "gg-1793685698344-0-42c02p",
+    "platform": "google",
+    "title": "福昕PDF编辑器高级版 永久授权 商务办公",
+    "price": 83.13,
+    "originalPrice": 106.41,
+    "commissionRate": 3.78,
+    "salesVolume": 1943,
+    "rating": 4.61,
+    "reviewCount": 2778,
+    "category": "软件工具",
+    "imageUrl": "https://picsum.photos/seed/gg0pdfeditor/400/300",
+    "link": "https://shopping.google.com/",
+    "shopName": "Google Shopping",
+    "isVirtual": true,
+    "deliveryType": "digital",
+    "meta": {
+      "source": "mock"
+    },
+    "score": 56.76,
+    "expectedRevenue": 3.14,
+    "aiCopy": "爆款推荐｜软件工具好物，佣金3.78%，预期收益$3.14",
+    "aiTags": [
+      "google",
+      "软件工具",
+      "热销",
+      "精选"
+    ],
+    "reason": "高佣金+1943销量，转化预期佳",
+    "directionId": "software-tools"
+  },
+  {
+    "id": "gg-1793685698344-15-aiqpp6",
+    "platform": "google",
+    "title": "儿童学习桌椅可升降 防近视矫姿",
+    "price": 181.05,
+    "originalPrice": 206.4,
+    "commissionRate": 5.3,
+    "salesVolume": 439,
+    "rating": 4.62,
+    "reviewCount": 1233,
+    "category": "母婴玩具",
+    "imageUrl": "https://picsum.photos/seed/gg15kidsstudydesk/400/300",
+    "link": "https://shopping.google.com/",
+    "shopName": "Google Shopping",
+    "isVirtual": false,
+    "deliveryType": "physical",
+    "meta": {
+      "source": "mock"
+    },
+    "score": 56.55,
+    "expectedRevenue": 9.6,
+    "aiCopy": "爆款推荐｜母婴玩具好物，佣金5.3%，预期收益$9.6",
+    "aiTags": [
+      "google",
+      "母婴玩具",
+      "热销",
+      "精选"
+    ],
+    "reason": "高佣金+439销量，转化预期佳",
+    "directionId": "mother-baby"
+  }
+]
