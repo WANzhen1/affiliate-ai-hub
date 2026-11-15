@@ -1,0 +1,2590 @@
+{
+  "dimension": "category",
+  "groups": [
+    {
+      "key": "数码电子",
+      "count": 10,
+      "avgScore": 77.28,
+      "expectedRevenue": 982.11,
+      "items": [
+        {
+          "id": "jd-1794721565987-17-14m9a4",
+          "platform": "jd",
+          "title": "京东自营 4K高清投影仪 家庭影院 智能自动对焦",
+          "price": 1982.76,
+          "originalPrice": 2815.52,
+          "commissionRate": 10.59,
+          "salesVolume": 953,
+          "rating": 4.59,
+          "reviewCount": 307,
+          "category": "数码电子",
+          "imageUrl": "https://picsum.photos/seed/jd17projector4k/400/300",
+          "link": "https://union.jd.com/",
+          "couponAmount": 255,
+          "shopName": "京东自营",
+          "isVirtual": false,
+          "deliveryType": "physical",
+          "meta": {
+            "source": "mock"
+          },
+          "score": 89.68,
+          "expectedRevenue": 209.97,
+          "aiCopy": "爆款推荐｜数码电子好物，佣金10.59%，预期收益¥209.97",
+          "aiTags": [
+            "jd",
+            "数码电子",
+            "有券",
+            "精选"
+          ],
+          "reason": "高佣金+953销量，转化预期佳",
+          "directionId": "digital-electronics"
+        },
+        {
+          "id": "tbk-1794721565981-23-aq22w1",
+          "platform": "taobao",
+          "title": "4K高清投影仪 家庭影院 智能自动对焦",
+          "price": 1646.97,
+          "originalPrice": 2602.21,
+          "commissionRate": 13.94,
+          "salesVolume": 609,
+          "rating": 4.34,
+          "reviewCount": 850,
+          "category": "数码电子",
+          "imageUrl": "https://picsum.photos/seed/tbk23projector4k/400/300",
+          "link": "https://pub.alimama.com/",
+          "couponAmount": 187,
+          "shopName": "家庭影院官方店",
+          "isVirtual": false,
+          "deliveryType": "physical",
+          "meta": {
+            "source": "mock"
+          },
+          "score": 87.34,
+          "expectedRevenue": 229.59,
+          "aiCopy": "爆款推荐｜数码电子好物，佣金13.94%，预期收益¥229.59",
+          "aiTags": [
+            "taobao",
+            "数码电子",
+            "有券",
+            "精选"
+          ],
+          "reason": "高佣金+609销量，转化预期佳",
+          "directionId": "digital-electronics"
+        },
+        {
+          "id": "jd-1794721565987-21-mstpa9",
+          "platform": "jd",
+          "title": "京东自营 4K高清投影仪 家庭影院 智能自动对焦",
+          "price": 1966.77,
+          "originalPrice": 2851.82,
+          "commissionRate": 9.46,
+          "salesVolume": 742,
+          "rating": 4.31,
+          "reviewCount": 1188,
+          "category": "数码电子",
+          "imageUrl": "https://picsum.photos/seed/jd21projector4k/400/300",
+          "link": "https://union.jd.com/",
+          "couponAmount": 326,
+          "shopName": "京东自营",
+          "isVirtual": false,
+          "deliveryType": "physical",
+          "meta": {
+            "source": "mock"
+          },
+          "score": 86.78,
+          "expectedRevenue": 186.06,
+          "aiCopy": "爆款推荐｜数码电子好物，佣金9.46%，预期收益¥186.06",
+          "aiTags": [
+            "jd",
+            "数码电子",
+            "有券",
+            "精选"
+          ],
+          "reason": "高佣金+742销量，转化预期佳",
+          "directionId": "digital-electronics"
+        },
+        {
+          "id": "tbk-1794721565981-14-2euxe4",
+          "platform": "taobao",
+          "title": "智能手表运动健康监测 心率血氧 GPS 长续航",
+          "price": 477.36,
+          "originalPrice": 644.44,
+          "commissionRate": 23.76,
+          "salesVolume": 1877,
+          "rating": 4.62,
+          "reviewCount": 2054,
+          "category": "数码电子",
+          "imageUrl": "https://picsum.photos/seed/tbk14smartwatch/400/300",
+          "link": "https://pub.alimama.com/",
+          "couponAmount": 52,
+          "shopName": "智能穿戴旗舰店",
+          "isVirtual": false,
+          "deliveryType": "physical",
+          "meta": {
+            "source": "mock"
+          },
+          "score": 84.39,
+          "expectedRevenue": 113.42,
+          "aiCopy": "爆款推荐｜数码电子好物，佣金23.76%，预期收益¥113.42",
+          "aiTags": [
+            "taobao",
+            "数码电子",
+            "有券",
+            "精选"
+          ],
+          "reason": "高佣金+1877销量，转化预期佳",
+          "directionId": "digital-electronics"
+        },
+        {
+          "id": "jd-1794721565986-1-q6rtwq",
+          "platform": "jd",
+          "title": "京东自营 智能手表运动健康监测 心率血氧 GPS 长续航",
+          "price": 573.75,
+          "originalPrice": 717.19,
+          "commissionRate": 16.95,
+          "salesVolume": 624,
+          "rating": 4.62,
+          "reviewCount": 5151,
+          "category": "数码电子",
+          "imageUrl": "https://picsum.photos/seed/jd1smartwatch/400/300",
+          "link": "https://union.jd.com/",
+          "couponAmount": 90,
+          "shopName": "京东自营",
+          "isVirtual": false,
+          "deliveryType": "physical",
+          "meta": {
+            "source": "mock"
+          },
+          "score": 84.38,
+          "expectedRevenue": 97.25,
+          "aiCopy": "爆款推荐｜数码电子好物，佣金16.95%，预期收益¥97.25",
+          "aiTags": [
+            "jd",
+            "数码电子",
+            "有券",
+            "精选"
+          ],
+          "reason": "高佣金+624销量，转化预期佳",
+          "directionId": "digital-electronics"
+        },
+        {
+          "id": "tbk-1794721565981-24-z94gvn",
+          "platform": "taobao",
+          "title": "智能手表运动健康监测 心率血氧 GPS 长续航",
+          "price": 486.54,
+          "originalPrice": 671.43,
+          "commissionRate": 23.01,
+          "salesVolume": 2241,
+          "rating": 4.57,
+          "reviewCount": 3036,
+          "category": "数码电子",
+          "imageUrl": "https://picsum.photos/seed/tbk24smartwatch/400/300",
+          "link": "https://pub.alimama.com/",
+          "couponAmount": 41,
+          "shopName": "智能穿戴旗舰店",
+          "isVirtual": false,
+          "deliveryType": "physical",
+          "meta": {
+            "source": "mock"
+          },
+          "score": 82.49,
+          "expectedRevenue": 111.95,
+          "aiCopy": "爆款推荐｜数码电子好物，佣金23.01%，预期收益¥111.95",
+          "aiTags": [
+            "taobao",
+            "数码电子",
+            "有券",
+            "精选"
+          ],
+          "reason": "高佣金+2241销量，转化预期佳",
+          "directionId": "digital-electronics"
+        },
+        {
+          "id": "amz-1794721565978-26-oldlrb",
+          "platform": "amazon",
+          "title": "智能手表运动健康监测 心率血氧 GPS 长续航",
+          "price": 80.96,
+          "originalPrice": 111.72,
+          "commissionRate": 14.13,
+          "salesVolume": 3170,
+          "rating": 4.52,
+          "reviewCount": 6142,
+          "category": "数码电子",
+          "imageUrl": "https://picsum.photos/seed/amz26smartwatch/400/300",
+          "link": "https://www.amazon.com/",
+          "couponAmount": 35,
+          "shopName": "Amazon",
+          "isVirtual": false,
+          "deliveryType": "physical",
+          "meta": {
+            "source": "mock"
+          },
+          "score": 70.75,
+          "expectedRevenue": 11.44,
+          "aiCopy": "爆款推荐｜数码电子好物，佣金14.13%，预期收益$11.44",
+          "aiTags": [
+            "amazon",
+            "数码电子",
+            "有券",
+            "精选"
+          ],
+          "reason": "高佣金+3170销量，转化预期佳",
+          "directionId": "digital-electronics"
+        },
+        {
+          "id": "amz-1794721565978-15-rudnvg",
+          "platform": "amazon",
+          "title": "便携式移动电源 20000mAh PD快充 数显",
+          "price": 16.13,
+          "originalPrice": 21.78,
+          "commissionRate": 22.3,
+          "salesVolume": 5249,
+          "rating": 4.82,
+          "reviewCount": 8332,
+          "category": "数码电子",
+          "imageUrl": "https://picsum.photos/seed/amz15powerbank/400/300",
+          "link": "https://www.amazon.com/",
+          "couponAmount": 37,
+          "shopName": "Amazon",
+          "isVirtual": false,
+          "deliveryType": "physical",
+          "meta": {
+            "source": "mock"
+          },
+          "score": 69.21,
+          "expectedRevenue": 3.6,
+          "aiCopy": "爆款推荐｜数码电子好物，佣金22.3%，预期收益$3.6",
+          "aiTags": [
+            "amazon",
+            "数码电子",
+            "有券",
+            "精选"
+          ],
+          "reason": "高佣金+5249销量，转化预期佳",
+          "directionId": "digital-electronics"
+        },
+        {
+          "id": "gg-1794721565991-10-3ladbt",
+          "platform": "google",
+          "title": "智能手表运动健康监测 心率血氧 GPS 长续航",
+          "price": 73.95,
+          "originalPrice": 90.96,
+          "commissionRate": 5.98,
+          "salesVolume": 1830,
+          "rating": 4.8,
+          "reviewCount": 2691,
+          "category": "数码电子",
+          "imageUrl": "https://picsum.photos/seed/gg10smartwatch/400/300",
+          "link": "https://shopping.google.com/",
+          "shopName": "Google Shopping",
+          "isVirtual": false,
+          "deliveryType": "physical",
+          "meta": {
+            "source": "mock"
+          },
+          "score": 58.91,
+          "expectedRevenue": 4.42,
+          "aiCopy": "爆款推荐｜数码电子好物，佣金5.98%，预期收益$4.42",
+          "aiTags": [
+            "google",
+            "数码电子",
+            "热销",
+            "精选"
+          ],
+          "reason": "高佣金+1830销量，转化预期佳",
+          "directionId": "digital-electronics"
+        },
+        {
+          "id": "gg-1794721565991-4-hnwau3",
+          "platform": "google",
+          "title": "4K高清投影仪 家庭影院 智能自动对焦",
+          "price": 282.05,
+          "originalPrice": 358.2,
+          "commissionRate": 5.11,
+          "salesVolume": 427,
+          "rating": 4.71,
+          "reviewCount": 140,
+          "category": "数码电子",
+          "imageUrl": "https://picsum.photos/seed/gg4projector4k/400/300",
+          "link": "https://shopping.google.com/",
+          "shopName": "Google Shopping",
+          "isVirtual": false,
+          "deliveryType": "physical",
+          "meta": {
+            "source": "mock"
+          },
+          "score": 58.86,
+          "expectedRevenue": 14.41,
+          "aiCopy": "爆款推荐｜数码电子好物，佣金5.11%，预期收益$14.41",
+          "aiTags": [
+            "google",
+            "数码电子",
+            "热销",
+            "精选"
+          ],
+          "reason": "高佣金+427销量，转化预期佳",
+          "directionId": "digital-electronics"
+        }
+      ]
+    },
+    {
+      "key": "在线课程",
+      "count": 3,
+      "avgScore": 91.77,
+      "expectedRevenue": 624.9,
+      "items": [
+        {
+          "id": "jd-1794721565987-26-dxf6ea",
+          "platform": "jd",
+          "title": "京东自营 UI/UX设计师就业班 Figma+作品集",
+          "price": 1636.74,
+          "originalPrice": 2013.19,
+          "commissionRate": 33.06,
+          "salesVolume": 3523,
+          "rating": 4.89,
+          "reviewCount": 8070,
+          "category": "在线课程",
+          "imageUrl": "https://picsum.photos/seed/jd26designcourse/400/300",
+          "link": "https://union.jd.com/",
+          "couponAmount": 219,
+          "shopName": "京东自营",
+          "isVirtual": true,
+          "deliveryType": "digital",
+          "meta": {
+            "source": "mock"
+          },
+          "score": 100,
+          "expectedRevenue": 541.11,
+          "aiCopy": "爆款推荐｜在线课程好物，佣金33.06%，预期收益¥541.11",
+          "aiTags": [
+            "jd",
+            "在线课程",
+            "有券",
+            "精选"
+          ],
+          "reason": "高佣金+3523销量，转化预期佳",
+          "directionId": "online-courses"
+        },
+        {
+          "id": "amz-1794721565978-14-nw0oqf",
+          "platform": "amazon",
+          "title": "UI/UX设计师就业班 Figma+作品集",
+          "price": 153.35,
+          "originalPrice": 213.16,
+          "commissionRate": 22.63,
+          "salesVolume": 8385,
+          "rating": 4.87,
+          "reviewCount": 7536,
+          "category": "在线课程",
+          "imageUrl": "https://picsum.photos/seed/amz14designcourse/400/300",
+          "link": "https://www.amazon.com/",
+          "couponAmount": 341,
+          "shopName": "Amazon",
+          "isVirtual": true,
+          "deliveryType": "digital",
+          "meta": {
+            "source": "mock"
+          },
+          "score": 89.37,
+          "expectedRevenue": 34.7,
+          "aiCopy": "爆款推荐｜在线课程好物，佣金22.63%，预期收益$34.7",
+          "aiTags": [
+            "amazon",
+            "在线课程",
+            "有券",
+            "精选"
+          ],
+          "reason": "高佣金+8385销量，转化预期佳",
+          "directionId": "online-courses"
+        },
+        {
+          "id": "amz-1794721565978-4-qgmyci",
+          "platform": "amazon",
+          "title": "UI/UX设计师就业班 Figma+作品集",
+          "price": 164.18,
+          "originalPrice": 221.64,
+          "commissionRate": 29.9,
+          "salesVolume": 1954,
+          "rating": 4.84,
+          "reviewCount": 2986,
+          "category": "在线课程",
+          "imageUrl": "https://picsum.photos/seed/amz4designcourse/400/300",
+          "link": "https://www.amazon.com/",
+          "couponAmount": 293,
+          "shopName": "Amazon",
+          "isVirtual": true,
+          "deliveryType": "digital",
+          "meta": {
+            "source": "mock"
+          },
+          "score": 85.93,
+          "expectedRevenue": 49.09,
+          "aiCopy": "爆款推荐｜在线课程好物，佣金29.9%，预期收益$49.09",
+          "aiTags": [
+            "amazon",
+            "在线课程",
+            "有券",
+            "精选"
+          ],
+          "reason": "高佣金+1954销量，转化预期佳",
+          "directionId": "online-courses"
+        }
+      ]
+    },
+    {
+      "key": "SaaS服务",
+      "count": 5,
+      "avgScore": 84.02,
+      "expectedRevenue": 488.94,
+      "items": [
+        {
+          "id": "tbk-1794721565981-15-ky3odq",
+          "platform": "taobao",
+          "title": "Figma专业版 年订阅 UI设计协作",
+          "price": 442.8,
+          "originalPrice": 695.2,
+          "commissionRate": 31.02,
+          "salesVolume": 5145,
+          "rating": 4.83,
+          "reviewCount": 1694,
+          "category": "SaaS服务",
+          "imageUrl": "https://picsum.photos/seed/tbk15uidesigntool/400/300",
+          "link": "https://pub.alimama.com/",
+          "couponAmount": 106,
+          "shopName": "Figma官方",
+          "isVirtual": true,
+          "deliveryType": "digital",
+          "meta": {
+            "source": "mock"
+          },
+          "score": 94.53,
+          "expectedRevenue": 137.36,
+          "aiCopy": "爆款推荐｜SaaS服务好物，佣金31.02%，预期收益¥137.36",
+          "aiTags": [
+            "taobao",
+            "SaaS服务",
+            "有券",
+            "精选"
+          ],
+          "reason": "高佣金+5145销量，转化预期佳",
+          "directionId": "saas-services"
+        },
+        {
+          "id": "jd-1794721565987-34-mdhicy",
+          "platform": "jd",
+          "title": "京东自营 Figma专业版 年订阅 UI设计协作",
+          "price": 556.2,
+          "originalPrice": 773.12,
+          "commissionRate": 19.32,
+          "salesVolume": 3220,
+          "rating": 4.87,
+          "reviewCount": 8329,
+          "category": "SaaS服务",
+          "imageUrl": "https://picsum.photos/seed/jd34uidesigntool/400/300",
+          "link": "https://union.jd.com/",
+          "couponAmount": 113,
+          "shopName": "京东自营",
+          "isVirtual": true,
+          "deliveryType": "digital",
+          "meta": {
+            "source": "mock"
+          },
+          "score": 91.84,
+          "expectedRevenue": 107.46,
+          "aiCopy": "爆款推荐｜SaaS服务好物，佣金19.32%，预期收益¥107.46",
+          "aiTags": [
+            "jd",
+            "SaaS服务",
+            "有券",
+            "精选"
+          ],
+          "reason": "高佣金+3220销量，转化预期佳",
+          "directionId": "saas-services"
+        },
+        {
+          "id": "tbk-1794721565981-26-ara2m1",
+          "platform": "taobao",
+          "title": "Figma专业版 年订阅 UI设计协作",
+          "price": 453.6,
+          "originalPrice": 784.73,
+          "commissionRate": 31.93,
+          "salesVolume": 1480,
+          "rating": 4.89,
+          "reviewCount": 3610,
+          "category": "SaaS服务",
+          "imageUrl": "https://picsum.photos/seed/tbk26uidesigntool/400/300",
+          "link": "https://pub.alimama.com/",
+          "couponAmount": 89,
+          "shopName": "Figma官方",
+          "isVirtual": true,
+          "deliveryType": "digital",
+          "meta": {
+            "source": "mock"
+          },
+          "score": 90.78,
+          "expectedRevenue": 144.83,
+          "aiCopy": "爆款推荐｜SaaS服务好物，佣金31.93%，预期收益¥144.83",
+          "aiTags": [
+            "taobao",
+            "SaaS服务",
+            "有券",
+            "精选"
+          ],
+          "reason": "高佣金+1480销量，转化预期佳",
+          "directionId": "saas-services"
+        },
+        {
+          "id": "jd-1794721565986-0-w10vtk",
+          "platform": "jd",
+          "title": "京东自营 Notion Plus个人版 年订阅 笔记知识库",
+          "price": 262.08,
+          "originalPrice": 338.08,
+          "commissionRate": 36.66,
+          "salesVolume": 5048,
+          "rating": 4.83,
+          "reviewCount": 9863,
+          "category": "SaaS服务",
+          "imageUrl": "https://picsum.photos/seed/jd0notessaas/400/300",
+          "link": "https://union.jd.com/",
+          "couponAmount": 36,
+          "shopName": "京东自营",
+          "isVirtual": true,
+          "deliveryType": "digital",
+          "meta": {
+            "source": "mock"
+          },
+          "score": 84.82,
+          "expectedRevenue": 96.08,
+          "aiCopy": "爆款推荐｜SaaS服务好物，佣金36.66%，预期收益¥96.08",
+          "aiTags": [
+            "jd",
+            "SaaS服务",
+            "有券",
+            "精选"
+          ],
+          "reason": "高佣金+5048销量，转化预期佳",
+          "directionId": "saas-services"
+        },
+        {
+          "id": "gg-1794721565991-23-y91sfb",
+          "platform": "google",
+          "title": "Notion Plus个人版 年订阅 笔记知识库",
+          "price": 53.6,
+          "originalPrice": 62.18,
+          "commissionRate": 5.99,
+          "salesVolume": 2026,
+          "rating": 4.84,
+          "reviewCount": 6067,
+          "category": "SaaS服务",
+          "imageUrl": "https://picsum.photos/seed/gg23notessaas/400/300",
+          "link": "https://shopping.google.com/",
+          "shopName": "Google Shopping",
+          "isVirtual": true,
+          "deliveryType": "digital",
+          "meta": {
+            "source": "mock"
+          },
+          "score": 58.15,
+          "expectedRevenue": 3.21,
+          "aiCopy": "爆款推荐｜SaaS服务好物，佣金5.99%，预期收益$3.21",
+          "aiTags": [
+            "google",
+            "SaaS服务",
+            "热销",
+            "精选"
+          ],
+          "reason": "高佣金+2026销量，转化预期佳",
+          "directionId": "saas-services"
+        }
+      ]
+    },
+    {
+      "key": "软件工具",
+      "count": 6,
+      "avgScore": 84.01,
+      "expectedRevenue": 402.44,
+      "items": [
+        {
+          "id": "tbk-1794721565981-5-osq2jk",
+          "platform": "taobao",
+          "title": "福昕PDF编辑器高级版 永久授权 商务办公",
+          "price": 395.01,
+          "originalPrice": 580.66,
+          "commissionRate": 31.13,
+          "salesVolume": 1595,
+          "rating": 4.64,
+          "reviewCount": 6709,
+          "category": "软件工具",
+          "imageUrl": "https://picsum.photos/seed/tbk5pdfeditor/400/300",
+          "link": "https://pub.alimama.com/",
+          "couponAmount": 113,
+          "shopName": "福昕软件旗舰店",
+          "isVirtual": true,
+          "deliveryType": "digital",
+          "meta": {
+            "source": "mock"
+          },
+          "score": 88.94,
+          "expectedRevenue": 122.97,
+          "aiCopy": "爆款推荐｜软件工具好物，佣金31.13%，预期收益¥122.97",
+          "aiTags": [
+            "taobao",
+            "软件工具",
+            "有券",
+            "精选"
+          ],
+          "reason": "高佣金+1595销量，转化预期佳",
+          "directionId": "software-tools"
+        },
+        {
+          "id": "tbk-1794721565981-10-wnhwcj",
+          "platform": "taobao",
+          "title": "福昕PDF编辑器高级版 永久授权 商务办公",
+          "price": 418.95,
+          "originalPrice": 615.86,
+          "commissionRate": 32.48,
+          "salesVolume": 4588,
+          "rating": 4.65,
+          "reviewCount": 3720,
+          "category": "软件工具",
+          "imageUrl": "https://picsum.photos/seed/tbk10pdfeditor/400/300",
+          "link": "https://pub.alimama.com/",
+          "couponAmount": 53,
+          "shopName": "福昕软件旗舰店",
+          "isVirtual": true,
+          "deliveryType": "digital",
+          "meta": {
+            "source": "mock"
+          },
+          "score": 88.79,
+          "expectedRevenue": 136.07,
+          "aiCopy": "爆款推荐｜软件工具好物，佣金32.48%，预期收益¥136.07",
+          "aiTags": [
+            "taobao",
+            "软件工具",
+            "有券",
+            "精选"
+          ],
+          "reason": "高佣金+4588销量，转化预期佳",
+          "directionId": "software-tools"
+        },
+        {
+          "id": "tbk-1794721565982-37-eveckg",
+          "platform": "taobao",
+          "title": "福昕PDF编辑器高级版 永久授权 商务办公",
+          "price": 275.31,
+          "originalPrice": 415.72,
+          "commissionRate": 34.22,
+          "salesVolume": 1460,
+          "rating": 4.58,
+          "reviewCount": 5646,
+          "category": "软件工具",
+          "imageUrl": "https://picsum.photos/seed/tbk37pdfeditor/400/300",
+          "link": "https://pub.alimama.com/",
+          "couponAmount": 120,
+          "shopName": "福昕软件旗舰店",
+          "isVirtual": true,
+          "deliveryType": "digital",
+          "meta": {
+            "source": "mock"
+          },
+          "score": 86.96,
+          "expectedRevenue": 94.21,
+          "aiCopy": "爆款推荐｜软件工具好物，佣金34.22%，预期收益¥94.21",
+          "aiTags": [
+            "taobao",
+            "软件工具",
+            "有券",
+            "精选"
+          ],
+          "reason": "高佣金+1460销量，转化预期佳",
+          "directionId": "software-tools"
+        },
+        {
+          "id": "amz-1794721565978-24-dqjyh3",
+          "platform": "amazon",
+          "title": "福昕PDF编辑器高级版 永久授权 商务办公",
+          "price": 55.97,
+          "originalPrice": 73.32,
+          "commissionRate": 33.27,
+          "salesVolume": 3465,
+          "rating": 4.59,
+          "reviewCount": 3721,
+          "category": "软件工具",
+          "imageUrl": "https://picsum.photos/seed/amz24pdfeditor/400/300",
+          "link": "https://www.amazon.com/",
+          "couponAmount": 93,
+          "shopName": "Amazon",
+          "isVirtual": true,
+          "deliveryType": "digital",
+          "meta": {
+            "source": "mock"
+          },
+          "score": 81.78,
+          "expectedRevenue": 18.62,
+          "aiCopy": "爆款推荐｜软件工具好物，佣金33.27%，预期收益$18.62",
+          "aiTags": [
+            "amazon",
+            "软件工具",
+            "有券",
+            "精选"
+          ],
+          "reason": "高佣金+3465销量，转化预期佳",
+          "directionId": "software-tools"
+        },
+        {
+          "id": "amz-1794721565978-10-fkyvv2",
+          "platform": "amazon",
+          "title": "福昕PDF编辑器高级版 永久授权 商务办公",
+          "price": 62.62,
+          "originalPrice": 72.64,
+          "commissionRate": 27.6,
+          "salesVolume": 3417,
+          "rating": 4.57,
+          "reviewCount": 6757,
+          "category": "软件工具",
+          "imageUrl": "https://picsum.photos/seed/amz10pdfeditor/400/300",
+          "link": "https://www.amazon.com/",
+          "couponAmount": 93,
+          "shopName": "Amazon",
+          "isVirtual": true,
+          "deliveryType": "digital",
+          "meta": {
+            "source": "mock"
+          },
+          "score": 81.26,
+          "expectedRevenue": 17.28,
+          "aiCopy": "爆款推荐｜软件工具好物，佣金27.6%，预期收益$17.28",
+          "aiTags": [
+            "amazon",
+            "软件工具",
+            "有券",
+            "精选"
+          ],
+          "reason": "高佣金+3417销量，转化预期佳",
+          "directionId": "software-tools"
+        },
+        {
+          "id": "amz-1794721565978-12-emxtoj",
+          "platform": "amazon",
+          "title": "福昕PDF编辑器高级版 永久授权 商务办公",
+          "price": 49.88,
+          "originalPrice": 61.85,
+          "commissionRate": 26.65,
+          "salesVolume": 4040,
+          "rating": 4.6,
+          "reviewCount": 6499,
+          "category": "软件工具",
+          "imageUrl": "https://picsum.photos/seed/amz12pdfeditor/400/300",
+          "link": "https://www.amazon.com/",
+          "couponAmount": 53,
+          "shopName": "Amazon",
+          "isVirtual": true,
+          "deliveryType": "digital",
+          "meta": {
+            "source": "mock"
+          },
+          "score": 76.31,
+          "expectedRevenue": 13.29,
+          "aiCopy": "爆款推荐｜软件工具好物，佣金26.65%，预期收益$13.29",
+          "aiTags": [
+            "amazon",
+            "软件工具",
+            "有券",
+            "精选"
+          ],
+          "reason": "高佣金+4040销量，转化预期佳",
+          "directionId": "software-tools"
+        }
+      ]
+    },
+    {
+      "key": "运动户外",
+      "count": 9,
+      "avgScore": 79.4,
+      "expectedRevenue": 389.1,
+      "items": [
+        {
+          "id": "jd-1794721565987-15-i7n8ca",
+          "platform": "jd",
+          "title": "京东自营 户外露营帐篷全自动 防雨防晒 4-6人",
+          "price": 490.77,
+          "originalPrice": 687.08,
+          "commissionRate": 13.12,
+          "salesVolume": 2649,
+          "rating": 4.72,
+          "reviewCount": 3409,
+          "category": "运动户外",
+          "imageUrl": "https://picsum.photos/seed/jd15campingtent/400/300",
+          "link": "https://union.jd.com/",
+          "couponAmount": 72,
+          "shopName": "京东自营",
+          "isVirtual": false,
+          "deliveryType": "physical",
+          "meta": {
+            "source": "mock"
+          },
+          "score": 87.17,
+          "expectedRevenue": 64.39,
+          "aiCopy": "爆款推荐｜运动户外好物，佣金13.12%，预期收益¥64.39",
+          "aiTags": [
+            "jd",
+            "运动户外",
+            "有券",
+            "精选"
+          ],
+          "reason": "高佣金+2649销量，转化预期佳",
+          "directionId": "outdoor-camping"
+        },
+        {
+          "id": "tbk-1794721565981-22-nrmfo5",
+          "platform": "taobao",
+          "title": "可调节哑铃一对 家用健身 男女通用",
+          "price": 217.56,
+          "originalPrice": 285,
+          "commissionRate": 15.99,
+          "salesVolume": 3371,
+          "rating": 4.62,
+          "reviewCount": 1506,
+          "category": "运动户外",
+          "imageUrl": "https://picsum.photos/seed/tbk22dumbbellset/400/300",
+          "link": "https://pub.alimama.com/",
+          "couponAmount": 76,
+          "shopName": "力量训练专营",
+          "isVirtual": false,
+          "deliveryType": "physical",
+          "meta": {
+            "source": "mock"
+          },
+          "score": 84.97,
+          "expectedRevenue": 34.79,
+          "aiCopy": "爆款推荐｜运动户外好物，佣金15.99%，预期收益¥34.79",
+          "aiTags": [
+            "taobao",
+            "运动户外",
+            "有券",
+            "精选"
+          ],
+          "reason": "高佣金+3371销量，转化预期佳",
+          "directionId": "sports-fitness"
+        },
+        {
+          "id": "tbk-1794721565982-39-a0m333",
+          "platform": "taobao",
+          "title": "可调节哑铃一对 家用健身 男女通用",
+          "price": 248.64,
+          "originalPrice": 430.15,
+          "commissionRate": 15.23,
+          "salesVolume": 2321,
+          "rating": 4.56,
+          "reviewCount": 4097,
+          "category": "运动户外",
+          "imageUrl": "https://picsum.photos/seed/tbk39dumbbellset/400/300",
+          "link": "https://pub.alimama.com/",
+          "couponAmount": 70,
+          "shopName": "力量训练专营",
+          "isVirtual": false,
+          "deliveryType": "physical",
+          "meta": {
+            "source": "mock"
+          },
+          "score": 82.8,
+          "expectedRevenue": 37.87,
+          "aiCopy": "爆款推荐｜运动户外好物，佣金15.23%，预期收益¥37.87",
+          "aiTags": [
+            "taobao",
+            "运动户外",
+            "有券",
+            "精选"
+          ],
+          "reason": "高佣金+2321销量，转化预期佳",
+          "directionId": "sports-fitness"
+        },
+        {
+          "id": "tbk-1794721565981-3-vdb3jh",
+          "platform": "taobao",
+          "title": "可调节哑铃一对 家用健身 男女通用",
+          "price": 209.79,
+          "originalPrice": 291.61,
+          "commissionRate": 16.9,
+          "salesVolume": 1142,
+          "rating": 4.7,
+          "reviewCount": 2542,
+          "category": "运动户外",
+          "imageUrl": "https://picsum.photos/seed/tbk3dumbbellset/400/300",
+          "link": "https://pub.alimama.com/",
+          "couponAmount": 78,
+          "shopName": "力量训练专营",
+          "isVirtual": false,
+          "deliveryType": "physical",
+          "meta": {
+            "source": "mock"
+          },
+          "score": 81.7,
+          "expectedRevenue": 35.45,
+          "aiCopy": "爆款推荐｜运动户外好物，佣金16.9%，预期收益¥35.45",
+          "aiTags": [
+            "taobao",
+            "运动户外",
+            "有券",
+            "精选"
+          ],
+          "reason": "高佣金+1142销量，转化预期佳",
+          "directionId": "sports-fitness"
+        },
+        {
+          "id": "jd-1794721565986-9-v2tgkd",
+          "platform": "jd",
+          "title": "京东自营 户外露营帐篷全自动 防雨防晒 4-6人",
+          "price": 399,
+          "originalPrice": 590.52,
+          "commissionRate": 14.94,
+          "salesVolume": 1107,
+          "rating": 4.71,
+          "reviewCount": 2761,
+          "category": "运动户外",
+          "imageUrl": "https://picsum.photos/seed/jd9campingtent/400/300",
+          "link": "https://union.jd.com/",
+          "couponAmount": 61,
+          "shopName": "京东自营",
+          "isVirtual": false,
+          "deliveryType": "physical",
+          "meta": {
+            "source": "mock"
+          },
+          "score": 81.5,
+          "expectedRevenue": 59.61,
+          "aiCopy": "爆款推荐｜运动户外好物，佣金14.94%，预期收益¥59.61",
+          "aiTags": [
+            "jd",
+            "运动户外",
+            "有券",
+            "精选"
+          ],
+          "reason": "高佣金+1107销量，转化预期佳",
+          "directionId": "outdoor-camping"
+        },
+        {
+          "id": "tbk-1794721565982-36-mav8hr",
+          "platform": "taobao",
+          "title": "可调节哑铃一对 家用健身 男女通用",
+          "price": 259,
+          "originalPrice": 388.5,
+          "commissionRate": 23.27,
+          "salesVolume": 3381,
+          "rating": 4.61,
+          "reviewCount": 4440,
+          "category": "运动户外",
+          "imageUrl": "https://picsum.photos/seed/tbk36dumbbellset/400/300",
+          "link": "https://pub.alimama.com/",
+          "couponAmount": 36,
+          "shopName": "力量训练专营",
+          "isVirtual": false,
+          "deliveryType": "physical",
+          "meta": {
+            "source": "mock"
+          },
+          "score": 79.93,
+          "expectedRevenue": 60.27,
+          "aiCopy": "爆款推荐｜运动户外好物，佣金23.27%，预期收益¥60.27",
+          "aiTags": [
+            "taobao",
+            "运动户外",
+            "有券",
+            "精选"
+          ],
+          "reason": "高佣金+3381销量，转化预期佳",
+          "directionId": "sports-fitness"
+        },
+        {
+          "id": "jd-1794721565987-24-hylsg2",
+          "platform": "jd",
+          "title": "京东自营 户外露营帐篷全自动 防雨防晒 4-6人",
+          "price": 391.02,
+          "originalPrice": 531.79,
+          "commissionRate": 14.58,
+          "salesVolume": 472,
+          "rating": 4.44,
+          "reviewCount": 4259,
+          "category": "运动户外",
+          "imageUrl": "https://picsum.photos/seed/jd24campingtent/400/300",
+          "link": "https://union.jd.com/",
+          "couponAmount": 115,
+          "shopName": "京东自营",
+          "isVirtual": false,
+          "deliveryType": "physical",
+          "meta": {
+            "source": "mock"
+          },
+          "score": 79.76,
+          "expectedRevenue": 57.01,
+          "aiCopy": "爆款推荐｜运动户外好物，佣金14.58%，预期收益¥57.01",
+          "aiTags": [
+            "jd",
+            "运动户外",
+            "有券",
+            "精选"
+          ],
+          "reason": "高佣金+472销量，转化预期佳",
+          "directionId": "outdoor-camping"
+        },
+        {
+          "id": "tbk-1794721565981-1-cibhr2",
+          "platform": "taobao",
+          "title": "可调节哑铃一对 家用健身 男女通用",
+          "price": 233.1,
+          "originalPrice": 310.02,
+          "commissionRate": 16.7,
+          "salesVolume": 2214,
+          "rating": 4.64,
+          "reviewCount": 1687,
+          "category": "运动户外",
+          "imageUrl": "https://picsum.photos/seed/tbk1dumbbellset/400/300",
+          "link": "https://pub.alimama.com/",
+          "couponAmount": 52,
+          "shopName": "力量训练专营",
+          "isVirtual": false,
+          "deliveryType": "physical",
+          "meta": {
+            "source": "mock"
+          },
+          "score": 79.58,
+          "expectedRevenue": 38.93,
+          "aiCopy": "爆款推荐｜运动户外好物，佣金16.7%，预期收益¥38.93",
+          "aiTags": [
+            "taobao",
+            "运动户外",
+            "有券",
+            "精选"
+          ],
+          "reason": "高佣金+2214销量，转化预期佳",
+          "directionId": "sports-fitness"
+        },
+        {
+          "id": "gg-1794721565991-12-r5pmsj",
+          "platform": "google",
+          "title": "瑜伽垫加厚防滑 TPE环保 初学者健身",
+          "price": 13.83,
+          "originalPrice": 17.98,
+          "commissionRate": 5.62,
+          "salesVolume": 5459,
+          "rating": 4.85,
+          "reviewCount": 10226,
+          "category": "运动户外",
+          "imageUrl": "https://picsum.photos/seed/gg12yogamat/400/300",
+          "link": "https://shopping.google.com/",
+          "shopName": "Google Shopping",
+          "isVirtual": false,
+          "deliveryType": "physical",
+          "meta": {
+            "source": "mock"
+          },
+          "score": 57.15,
+          "expectedRevenue": 0.78,
+          "aiCopy": "爆款推荐｜运动户外好物，佣金5.62%，预期收益$0.78",
+          "aiTags": [
+            "google",
+            "运动户外",
+            "热销",
+            "精选"
+          ],
+          "reason": "高佣金+5459销量，转化预期佳",
+          "directionId": "sports-fitness"
+        }
+      ]
+    },
+    {
+      "key": "数字内容",
+      "count": 9,
+      "avgScore": 76.09,
+      "expectedRevenue": 279.86,
+      "items": [
+        {
+          "id": "jd-1794721565987-16-rre08z",
+          "platform": "jd",
+          "title": "京东自营 4K视频素材包200GB 短视频剪辑商用授权",
+          "price": 352.82,
+          "originalPrice": 465.72,
+          "commissionRate": 32.59,
+          "salesVolume": 1529,
+          "rating": 4.79,
+          "reviewCount": 14095,
+          "category": "数字内容",
+          "imageUrl": "https://picsum.photos/seed/jd16videofootage/400/300",
+          "link": "https://union.jd.com/",
+          "couponAmount": 74,
+          "shopName": "京东自营",
+          "isVirtual": true,
+          "deliveryType": "digital",
+          "meta": {
+            "source": "mock"
+          },
+          "score": 89,
+          "expectedRevenue": 114.98,
+          "aiCopy": "爆款推荐｜数字内容好物，佣金32.59%，预期收益¥114.98",
+          "aiTags": [
+            "jd",
+            "数字内容",
+            "有券",
+            "精选"
+          ],
+          "reason": "高佣金+1529销量，转化预期佳",
+          "directionId": "digital-content"
+        },
+        {
+          "id": "tbk-1794721565982-38-0j8vm1",
+          "platform": "taobao",
+          "title": "4K视频素材包200GB 短视频剪辑商用授权",
+          "price": 191.36,
+          "originalPrice": 252.6,
+          "commissionRate": 36.38,
+          "salesVolume": 5081,
+          "rating": 4.76,
+          "reviewCount": 2274,
+          "category": "数字内容",
+          "imageUrl": "https://picsum.photos/seed/tbk38videofootage/400/300",
+          "link": "https://pub.alimama.com/",
+          "couponAmount": 51,
+          "shopName": "视频素材库",
+          "isVirtual": true,
+          "deliveryType": "digital",
+          "meta": {
+            "source": "mock"
+          },
+          "score": 85.84,
+          "expectedRevenue": 69.62,
+          "aiCopy": "爆款推荐｜数字内容好物，佣金36.38%，预期收益¥69.62",
+          "aiTags": [
+            "taobao",
+            "数字内容",
+            "有券",
+            "精选"
+          ],
+          "reason": "高佣金+5081销量，转化预期佳",
+          "directionId": "digital-content"
+        },
+        {
+          "id": "jd-1794721565987-18-8w58f0",
+          "platform": "jd",
+          "title": "京东自营 PPT模板大全10000套 商务汇报教育通用",
+          "price": 75.21,
+          "originalPrice": 107.55,
+          "commissionRate": 36.16,
+          "salesVolume": 34545,
+          "rating": 4.64,
+          "reviewCount": 71654,
+          "category": "数字内容",
+          "imageUrl": "https://picsum.photos/seed/jd18ppttemplate/400/300",
+          "link": "https://union.jd.com/",
+          "couponAmount": 18,
+          "shopName": "京东自营",
+          "isVirtual": true,
+          "deliveryType": "digital",
+          "meta": {
+            "source": "mock"
+          },
+          "score": 80.51,
+          "expectedRevenue": 27.2,
+          "aiCopy": "爆款推荐｜数字内容好物，佣金36.16%，预期收益¥27.2",
+          "aiTags": [
+            "jd",
+            "数字内容",
+            "有券",
+            "精选"
+          ],
+          "reason": "高佣金+34545销量，转化预期佳",
+          "directionId": "digital-content"
+        },
+        {
+          "id": "jd-1794721565986-2-z8s6ui",
+          "platform": "jd",
+          "title": "京东自营 PPT模板大全10000套 商务汇报教育通用",
+          "price": 79.35,
+          "originalPrice": 107.92,
+          "commissionRate": 41.8,
+          "salesVolume": 22183,
+          "rating": 4.79,
+          "reviewCount": 43938,
+          "category": "数字内容",
+          "imageUrl": "https://picsum.photos/seed/jd2ppttemplate/400/300",
+          "link": "https://union.jd.com/",
+          "couponAmount": 16,
+          "shopName": "京东自营",
+          "isVirtual": true,
+          "deliveryType": "digital",
+          "meta": {
+            "source": "mock"
+          },
+          "score": 80.32,
+          "expectedRevenue": 33.17,
+          "aiCopy": "爆款推荐｜数字内容好物，佣金41.8%，预期收益¥33.17",
+          "aiTags": [
+            "jd",
+            "数字内容",
+            "有券",
+            "精选"
+          ],
+          "reason": "高佣金+22183销量，转化预期佳",
+          "directionId": "digital-content"
+        },
+        {
+          "id": "amz-1794721565978-9-5c8nq5",
+          "platform": "amazon",
+          "title": "4K视频素材包200GB 短视频剪辑商用授权",
+          "price": 54.4,
+          "originalPrice": 67.46,
+          "commissionRate": 30.05,
+          "salesVolume": 8181,
+          "rating": 4.79,
+          "reviewCount": 3268,
+          "category": "数字内容",
+          "imageUrl": "https://picsum.photos/seed/amz9videofootage/400/300",
+          "link": "https://www.amazon.com/",
+          "couponAmount": 36,
+          "shopName": "Amazon",
+          "isVirtual": true,
+          "deliveryType": "digital",
+          "meta": {
+            "source": "mock"
+          },
+          "score": 77.32,
+          "expectedRevenue": 16.35,
+          "aiCopy": "爆款推荐｜数字内容好物，佣金30.05%，预期收益$16.35",
+          "aiTags": [
+            "amazon",
+            "数字内容",
+            "有券",
+            "精选"
+          ],
+          "reason": "高佣金+8181销量，转化预期佳",
+          "directionId": "digital-content"
+        },
+        {
+          "id": "amz-1794721565978-6-asx9h3",
+          "platform": "amazon",
+          "title": "商用字体合集500款 设计师必备版权无忧",
+          "price": 27.38,
+          "originalPrice": 33.95,
+          "commissionRate": 30.25,
+          "salesVolume": 10175,
+          "rating": 4.66,
+          "reviewCount": 15989,
+          "category": "数字内容",
+          "imageUrl": "https://picsum.photos/seed/amz6fontdesign/400/300",
+          "link": "https://www.amazon.com/",
+          "couponAmount": 43,
+          "shopName": "Amazon",
+          "isVirtual": true,
+          "deliveryType": "digital",
+          "meta": {
+            "source": "mock"
+          },
+          "score": 75.57,
+          "expectedRevenue": 8.28,
+          "aiCopy": "爆款推荐｜数字内容好物，佣金30.25%，预期收益$8.28",
+          "aiTags": [
+            "amazon",
+            "数字内容",
+            "有券",
+            "精选"
+          ],
+          "reason": "高佣金+10175销量，转化预期佳",
+          "directionId": "digital-content"
+        },
+        {
+          "id": "amz-1794721565978-27-rzx2zy",
+          "platform": "amazon",
+          "title": "PPT模板大全10000套 商务汇报教育通用",
+          "price": 10.45,
+          "originalPrice": 14.32,
+          "commissionRate": 46.68,
+          "salesVolume": 20702,
+          "rating": 4.71,
+          "reviewCount": 24509,
+          "category": "数字内容",
+          "imageUrl": "https://picsum.photos/seed/amz27ppttemplate/400/300",
+          "link": "https://www.amazon.com/",
+          "couponAmount": 14,
+          "shopName": "Amazon",
+          "isVirtual": true,
+          "deliveryType": "digital",
+          "meta": {
+            "source": "mock"
+          },
+          "score": 70.11,
+          "expectedRevenue": 4.88,
+          "aiCopy": "爆款推荐｜数字内容好物，佣金46.68%，预期收益$4.88",
+          "aiTags": [
+            "amazon",
+            "数字内容",
+            "有券",
+            "精选"
+          ],
+          "reason": "高佣金+20702销量，转化预期佳",
+          "directionId": "digital-content"
+        },
+        {
+          "id": "amz-1794721565978-16-ythz1y",
+          "platform": "amazon",
+          "title": "Kindle电子书畅销榜合集 1000本精装",
+          "price": 13.2,
+          "originalPrice": 17.16,
+          "commissionRate": 35.11,
+          "salesVolume": 17477,
+          "rating": 4.75,
+          "reviewCount": 22682,
+          "category": "数字内容",
+          "imageUrl": "https://picsum.photos/seed/amz16ebook/400/300",
+          "link": "https://www.amazon.com/",
+          "couponAmount": 11,
+          "shopName": "Amazon",
+          "isVirtual": true,
+          "deliveryType": "digital",
+          "meta": {
+            "source": "mock"
+          },
+          "score": 68.9,
+          "expectedRevenue": 4.63,
+          "aiCopy": "爆款推荐｜数字内容好物，佣金35.11%，预期收益$4.63",
+          "aiTags": [
+            "amazon",
+            "数字内容",
+            "有券",
+            "精选"
+          ],
+          "reason": "高佣金+17477销量，转化预期佳",
+          "directionId": "digital-content"
+        },
+        {
+          "id": "gg-1794721565991-8-9ftc7v",
+          "platform": "google",
+          "title": "Kindle电子书畅销榜合集 1000本精装",
+          "price": 21.18,
+          "originalPrice": 26.26,
+          "commissionRate": 3.55,
+          "salesVolume": 8148,
+          "rating": 4.61,
+          "reviewCount": 12545,
+          "category": "数字内容",
+          "imageUrl": "https://picsum.photos/seed/gg8ebook/400/300",
+          "link": "https://shopping.google.com/",
+          "shopName": "Google Shopping",
+          "isVirtual": true,
+          "deliveryType": "digital",
+          "meta": {
+            "source": "mock"
+          },
+          "score": 57.26,
+          "expectedRevenue": 0.75,
+          "aiCopy": "爆款推荐｜数字内容好物，佣金3.55%，预期收益$0.75",
+          "aiTags": [
+            "google",
+            "数字内容",
+            "热销",
+            "精选"
+          ],
+          "reason": "高佣金+8148销量，转化预期佳",
+          "directionId": "digital-content"
+        }
+      ]
+    },
+    {
+      "key": "会员点卡",
+      "count": 9,
+      "avgScore": 78.89,
+      "expectedRevenue": 272.7,
+      "items": [
+        {
+          "id": "tbk-1794721565981-16-gm5mqi",
+          "platform": "taobao",
+          "title": "京东PLUS会员年卡 京豆+免邮+专属价",
+          "price": 122.18,
+          "originalPrice": 201.6,
+          "commissionRate": 50.54,
+          "salesVolume": 42660,
+          "rating": 4.99,
+          "reviewCount": 92513,
+          "category": "会员点卡",
+          "imageUrl": "https://picsum.photos/seed/tbk16membershipcard/400/300",
+          "link": "https://pub.alimama.com/",
+          "couponAmount": 46,
+          "shopName": "京东PLUS官方",
+          "isVirtual": true,
+          "deliveryType": "digital",
+          "meta": {
+            "source": "mock"
+          },
+          "score": 92.76,
+          "expectedRevenue": 61.75,
+          "aiCopy": "爆款推荐｜会员点卡好物，佣金50.54%，预期收益¥61.75",
+          "aiTags": [
+            "taobao",
+            "会员点卡",
+            "有券",
+            "精选"
+          ],
+          "reason": "高佣金+42660销量，转化预期佳",
+          "directionId": "membership-cards"
+        },
+        {
+          "id": "tbk-1794721565981-18-2eyu8r",
+          "platform": "taobao",
+          "title": "京东PLUS会员年卡 京豆+免邮+专属价",
+          "price": 131.12,
+          "originalPrice": 182.26,
+          "commissionRate": 34.91,
+          "salesVolume": 36805,
+          "rating": 4.92,
+          "reviewCount": 19110,
+          "category": "会员点卡",
+          "imageUrl": "https://picsum.photos/seed/tbk18membershipcard/400/300",
+          "link": "https://pub.alimama.com/",
+          "couponAmount": 50,
+          "shopName": "京东PLUS官方",
+          "isVirtual": true,
+          "deliveryType": "digital",
+          "meta": {
+            "source": "mock"
+          },
+          "score": 91.17,
+          "expectedRevenue": 45.77,
+          "aiCopy": "爆款推荐｜会员点卡好物，佣金34.91%，预期收益¥45.77",
+          "aiTags": [
+            "taobao",
+            "会员点卡",
+            "有券",
+            "精选"
+          ],
+          "reason": "高佣金+36805销量，转化预期佳",
+          "directionId": "membership-cards"
+        },
+        {
+          "id": "tbk-1794721565981-25-nre16b",
+          "platform": "taobao",
+          "title": "淘宝88VIP年卡 优酷+虾米+饿了么",
+          "price": 94.16,
+          "originalPrice": 124.29,
+          "commissionRate": 38.55,
+          "salesVolume": 77959,
+          "rating": 4.78,
+          "reviewCount": 116258,
+          "category": "会员点卡",
+          "imageUrl": "https://picsum.photos/seed/tbk25vipmembership/400/300",
+          "link": "https://pub.alimama.com/",
+          "couponAmount": 20,
+          "shopName": "天猫会员官方",
+          "isVirtual": true,
+          "deliveryType": "digital",
+          "meta": {
+            "source": "mock"
+          },
+          "score": 85.9,
+          "expectedRevenue": 36.3,
+          "aiCopy": "爆款推荐｜会员点卡好物，佣金38.55%，预期收益¥36.3",
+          "aiTags": [
+            "taobao",
+            "会员点卡",
+            "有券",
+            "精选"
+          ],
+          "reason": "高佣金+77959销量，转化预期佳",
+          "directionId": "membership-cards"
+        },
+        {
+          "id": "jd-1794721565986-4-8jjw8g",
+          "platform": "jd",
+          "title": "京东自营 淘宝88VIP年卡 优酷+虾米+饿了么",
+          "price": 113.52,
+          "originalPrice": 149.85,
+          "commissionRate": 40.61,
+          "salesVolume": 64517,
+          "rating": 4.88,
+          "reviewCount": 88035,
+          "category": "会员点卡",
+          "imageUrl": "https://picsum.photos/seed/jd4vipmembership/400/300",
+          "link": "https://union.jd.com/",
+          "couponAmount": 10,
+          "shopName": "京东自营",
+          "isVirtual": true,
+          "deliveryType": "digital",
+          "meta": {
+            "source": "mock"
+          },
+          "score": 84.95,
+          "expectedRevenue": 46.1,
+          "aiCopy": "爆款推荐｜会员点卡好物，佣金40.61%，预期收益¥46.1",
+          "aiTags": [
+            "jd",
+            "会员点卡",
+            "有券",
+            "精选"
+          ],
+          "reason": "高佣金+64517销量，转化预期佳",
+          "directionId": "membership-cards"
+        },
+        {
+          "id": "jd-1794721565987-29-2kh9zu",
+          "platform": "jd",
+          "title": "京东自营 淘宝88VIP年卡 优酷+虾米+饿了么",
+          "price": 108.24,
+          "originalPrice": 138.55,
+          "commissionRate": 43.88,
+          "salesVolume": 12105,
+          "rating": 4.8,
+          "reviewCount": 106527,
+          "category": "会员点卡",
+          "imageUrl": "https://picsum.photos/seed/jd29vipmembership/400/300",
+          "link": "https://union.jd.com/",
+          "couponAmount": 22,
+          "shopName": "京东自营",
+          "isVirtual": true,
+          "deliveryType": "digital",
+          "meta": {
+            "source": "mock"
+          },
+          "score": 81.29,
+          "expectedRevenue": 47.5,
+          "aiCopy": "爆款推荐｜会员点卡好物，佣金43.88%，预期收益¥47.5",
+          "aiTags": [
+            "jd",
+            "会员点卡",
+            "有券",
+            "精选"
+          ],
+          "reason": "高佣金+12105销量，转化预期佳",
+          "directionId": "membership-cards"
+        },
+        {
+          "id": "tbk-1794721565982-30-qyp405",
+          "platform": "taobao",
+          "title": "淘宝88VIP年卡 优酷+虾米+饿了么",
+          "price": 73.92,
+          "originalPrice": 99.79,
+          "commissionRate": 36.69,
+          "salesVolume": 11894,
+          "rating": 4.71,
+          "reviewCount": 100387,
+          "category": "会员点卡",
+          "imageUrl": "https://picsum.photos/seed/tbk30vipmembership/400/300",
+          "link": "https://pub.alimama.com/",
+          "couponAmount": 30,
+          "shopName": "天猫会员官方",
+          "isVirtual": true,
+          "deliveryType": "digital",
+          "meta": {
+            "source": "mock"
+          },
+          "score": 79.54,
+          "expectedRevenue": 27.12,
+          "aiCopy": "爆款推荐｜会员点卡好物，佣金36.69%，预期收益¥27.12",
+          "aiTags": [
+            "taobao",
+            "会员点卡",
+            "有券",
+            "精选"
+          ],
+          "reason": "高佣金+11894销量，转化预期佳",
+          "directionId": "membership-cards"
+        },
+        {
+          "id": "amz-1794721565978-8-hfjsiu",
+          "platform": "amazon",
+          "title": "淘宝88VIP年卡 优酷+虾米+饿了么",
+          "price": 16.38,
+          "originalPrice": 21.13,
+          "commissionRate": 35.6,
+          "salesVolume": 38818,
+          "rating": 4.77,
+          "reviewCount": 24794,
+          "category": "会员点卡",
+          "imageUrl": "https://picsum.photos/seed/amz8vipmembership/400/300",
+          "link": "https://www.amazon.com/",
+          "couponAmount": 17,
+          "shopName": "Amazon",
+          "isVirtual": true,
+          "deliveryType": "digital",
+          "meta": {
+            "source": "mock"
+          },
+          "score": 73.98,
+          "expectedRevenue": 5.83,
+          "aiCopy": "爆款推荐｜会员点卡好物，佣金35.6%，预期收益$5.83",
+          "aiTags": [
+            "amazon",
+            "会员点卡",
+            "有券",
+            "精选"
+          ],
+          "reason": "高佣金+38818销量，转化预期佳",
+          "directionId": "membership-cards"
+        },
+        {
+          "id": "gg-1794721565991-9-qtkqtn",
+          "platform": "google",
+          "title": "京东PLUS会员年卡 京豆+免邮+专属价",
+          "price": 25.25,
+          "originalPrice": 32.07,
+          "commissionRate": 5.25,
+          "salesVolume": 9790,
+          "rating": 4.97,
+          "reviewCount": 26520,
+          "category": "会员点卡",
+          "imageUrl": "https://picsum.photos/seed/gg9membershipcard/400/300",
+          "link": "https://shopping.google.com/",
+          "shopName": "Google Shopping",
+          "isVirtual": true,
+          "deliveryType": "digital",
+          "meta": {
+            "source": "mock"
+          },
+          "score": 61.18,
+          "expectedRevenue": 1.33,
+          "aiCopy": "爆款推荐｜会员点卡好物，佣金5.25%，预期收益$1.33",
+          "aiTags": [
+            "google",
+            "会员点卡",
+            "热销",
+            "精选"
+          ],
+          "reason": "高佣金+9790销量，转化预期佳",
+          "directionId": "membership-cards"
+        },
+        {
+          "id": "gg-1794721565991-18-j1315p",
+          "platform": "google",
+          "title": "京东PLUS会员年卡 京豆+免邮+专属价",
+          "price": 27.32,
+          "originalPrice": 30.87,
+          "commissionRate": 3.65,
+          "salesVolume": 7990,
+          "rating": 4.89,
+          "reviewCount": 49181,
+          "category": "会员点卡",
+          "imageUrl": "https://picsum.photos/seed/gg18membershipcard/400/300",
+          "link": "https://shopping.google.com/",
+          "shopName": "Google Shopping",
+          "isVirtual": true,
+          "deliveryType": "digital",
+          "meta": {
+            "source": "mock"
+          },
+          "score": 59.28,
+          "expectedRevenue": 1,
+          "aiCopy": "爆款推荐｜会员点卡好物，佣金3.65%，预期收益$1",
+          "aiTags": [
+            "google",
+            "会员点卡",
+            "热销",
+            "精选"
+          ],
+          "reason": "高佣金+7990销量，转化预期佳",
+          "directionId": "membership-cards"
+        }
+      ]
+    },
+    {
+      "key": "美妆个护",
+      "count": 6,
+      "avgScore": 80.92,
+      "expectedRevenue": 190.77,
+      "items": [
+        {
+          "id": "tbk-1794721565981-20-di2gia",
+          "platform": "taobao",
+          "title": "玻尿酸保湿精华液 烟酰胺提亮 30ml",
+          "price": 114.48,
+          "originalPrice": 172.86,
+          "commissionRate": 31.19,
+          "salesVolume": 15830,
+          "rating": 4.85,
+          "reviewCount": 14281,
+          "category": "美妆个护",
+          "imageUrl": "https://picsum.photos/seed/tbk20serumskincare/400/300",
+          "link": "https://pub.alimama.com/",
+          "couponAmount": 51,
+          "shopName": "肌肤之钥",
+          "isVirtual": false,
+          "deliveryType": "physical",
+          "meta": {
+            "source": "mock"
+          },
+          "score": 86.82,
+          "expectedRevenue": 35.71,
+          "aiCopy": "爆款推荐｜美妆个护好物，佣金31.19%，预期收益¥35.71",
+          "aiTags": [
+            "taobao",
+            "美妆个护",
+            "有券",
+            "精选"
+          ],
+          "reason": "高佣金+15830销量，转化预期佳",
+          "directionId": "beauty-care"
+        },
+        {
+          "id": "jd-1794721565987-14-navymh",
+          "platform": "jd",
+          "title": "京东自营 玻尿酸保湿精华液 烟酰胺提亮 30ml",
+          "price": 154.23,
+          "originalPrice": 194.33,
+          "commissionRate": 30.49,
+          "salesVolume": 11396,
+          "rating": 4.62,
+          "reviewCount": 15146,
+          "category": "美妆个护",
+          "imageUrl": "https://picsum.photos/seed/jd14serumskincare/400/300",
+          "link": "https://union.jd.com/",
+          "couponAmount": 41,
+          "shopName": "京东自营",
+          "isVirtual": false,
+          "deliveryType": "physical",
+          "meta": {
+            "source": "mock"
+          },
+          "score": 83.93,
+          "expectedRevenue": 47.02,
+          "aiCopy": "爆款推荐｜美妆个护好物，佣金30.49%，预期收益¥47.02",
+          "aiTags": [
+            "jd",
+            "美妆个护",
+            "有券",
+            "精选"
+          ],
+          "reason": "高佣金+11396销量，转化预期佳",
+          "directionId": "beauty-care"
+        },
+        {
+          "id": "tbk-1794721565981-29-di7ryh",
+          "platform": "taobao",
+          "title": "电动牙刷声波震动 USB充电 五档模式",
+          "price": 129,
+          "originalPrice": 224.46,
+          "commissionRate": 30.25,
+          "salesVolume": 11979,
+          "rating": 4.58,
+          "reviewCount": 12654,
+          "category": "美妆个护",
+          "imageUrl": "https://picsum.photos/seed/tbk29electrictoothbrush/400/300",
+          "link": "https://pub.alimama.com/",
+          "couponAmount": 27,
+          "shopName": "口腔护理旗舰",
+          "isVirtual": false,
+          "deliveryType": "physical",
+          "meta": {
+            "source": "mock"
+          },
+          "score": 80.15,
+          "expectedRevenue": 39.02,
+          "aiCopy": "爆款推荐｜美妆个护好物，佣金30.25%，预期收益¥39.02",
+          "aiTags": [
+            "taobao",
+            "美妆个护",
+            "有券",
+            "精选"
+          ],
+          "reason": "高佣金+11979销量，转化预期佳",
+          "directionId": "beauty-care"
+        },
+        {
+          "id": "jd-1794721565987-32-ko8noe",
+          "platform": "jd",
+          "title": "京东自营 氨基酸洁面乳 温和清洁 控油祛痘 100g",
+          "price": 71.07,
+          "originalPrice": 98.08,
+          "commissionRate": 39.16,
+          "salesVolume": 18022,
+          "rating": 4.83,
+          "reviewCount": 11914,
+          "category": "美妆个护",
+          "imageUrl": "https://picsum.photos/seed/jd32facialcleanser/400/300",
+          "link": "https://union.jd.com/",
+          "couponAmount": 16,
+          "shopName": "京东自营",
+          "isVirtual": false,
+          "deliveryType": "physical",
+          "meta": {
+            "source": "mock"
+          },
+          "score": 78.91,
+          "expectedRevenue": 27.83,
+          "aiCopy": "爆款推荐｜美妆个护好物，佣金39.16%，预期收益¥27.83",
+          "aiTags": [
+            "jd",
+            "美妆个护",
+            "有券",
+            "精选"
+          ],
+          "reason": "高佣金+18022销量，转化预期佳",
+          "directionId": "beauty-care"
+        },
+        {
+          "id": "tbk-1794721565982-33-h9xk7s",
+          "platform": "taobao",
+          "title": "氨基酸洁面乳 温和清洁 控油祛痘 100g",
+          "price": 68.31,
+          "originalPrice": 98.37,
+          "commissionRate": 30.68,
+          "salesVolume": 19368,
+          "rating": 4.85,
+          "reviewCount": 25388,
+          "category": "美妆个护",
+          "imageUrl": "https://picsum.photos/seed/tbk33facialcleanser/400/300",
+          "link": "https://pub.alimama.com/",
+          "couponAmount": 17,
+          "shopName": "本草护肤",
+          "isVirtual": false,
+          "deliveryType": "physical",
+          "meta": {
+            "source": "mock"
+          },
+          "score": 78.05,
+          "expectedRevenue": 20.96,
+          "aiCopy": "爆款推荐｜美妆个护好物，佣金30.68%，预期收益¥20.96",
+          "aiTags": [
+            "taobao",
+            "美妆个护",
+            "有券",
+            "精选"
+          ],
+          "reason": "高佣金+19368销量，转化预期佳",
+          "directionId": "beauty-care"
+        },
+        {
+          "id": "tbk-1794721565982-34-kj6cn7",
+          "platform": "taobao",
+          "title": "电动牙刷声波震动 USB充电 五档模式",
+          "price": 95.46,
+          "originalPrice": 144.14,
+          "commissionRate": 21.19,
+          "salesVolume": 4960,
+          "rating": 4.59,
+          "reviewCount": 5511,
+          "category": "美妆个护",
+          "imageUrl": "https://picsum.photos/seed/tbk34electrictoothbrush/400/300",
+          "link": "https://pub.alimama.com/",
+          "couponAmount": 46,
+          "shopName": "口腔护理旗舰",
+          "isVirtual": false,
+          "deliveryType": "physical",
+          "meta": {
+            "source": "mock"
+          },
+          "score": 77.64,
+          "expectedRevenue": 20.23,
+          "aiCopy": "爆款推荐｜美妆个护好物，佣金21.19%，预期收益¥20.23",
+          "aiTags": [
+            "taobao",
+            "美妆个护",
+            "有券",
+            "精选"
+          ],
+          "reason": "高佣金+4960销量，转化预期佳",
+          "directionId": "beauty-care"
+        }
+      ]
+    },
+    {
+      "key": "点卡充值",
+      "count": 6,
+      "avgScore": 74.24,
+      "expectedRevenue": 167.68,
+      "items": [
+        {
+          "id": "jd-1794721565986-7-npopkq",
+          "platform": "jd",
+          "title": "京东自营 京东E卡500元 自用送礼皆宜 不记名",
+          "price": 630,
+          "originalPrice": 900.9,
+          "commissionRate": 15.46,
+          "salesVolume": 7663,
+          "rating": 4.81,
+          "reviewCount": 24789,
+          "category": "点卡充值",
+          "imageUrl": "https://picsum.photos/seed/jd7giftcard/400/300",
+          "link": "https://union.jd.com/",
+          "couponAmount": 37,
+          "shopName": "京东自营",
+          "isVirtual": true,
+          "deliveryType": "digital",
+          "meta": {
+            "source": "mock"
+          },
+          "score": 86.44,
+          "expectedRevenue": 97.4,
+          "aiCopy": "爆款推荐｜点卡充值好物，佣金15.46%，预期收益¥97.4",
+          "aiTags": [
+            "jd",
+            "点卡充值",
+            "有券",
+            "精选"
+          ],
+          "reason": "高佣金+7663销量，转化预期佳",
+          "directionId": "points-cards"
+        },
+        {
+          "id": "jd-1794721565987-13-empg4u",
+          "platform": "jd",
+          "title": "京东自营 京东E卡500元 自用送礼皆宜 不记名",
+          "price": 450,
+          "originalPrice": 625.5,
+          "commissionRate": 9.58,
+          "salesVolume": 22287,
+          "rating": 4.92,
+          "reviewCount": 9263,
+          "category": "点卡充值",
+          "imageUrl": "https://picsum.photos/seed/jd13giftcard/400/300",
+          "link": "https://union.jd.com/",
+          "couponAmount": 31,
+          "shopName": "京东自营",
+          "isVirtual": true,
+          "deliveryType": "digital",
+          "meta": {
+            "source": "mock"
+          },
+          "score": 85.32,
+          "expectedRevenue": 43.11,
+          "aiCopy": "爆款推荐｜点卡充值好物，佣金9.58%，预期收益¥43.11",
+          "aiTags": [
+            "jd",
+            "点卡充值",
+            "有券",
+            "精选"
+          ],
+          "reason": "高佣金+22287销量，转化预期佳",
+          "directionId": "points-cards"
+        },
+        {
+          "id": "tbk-1794721565981-27-wcw7hk",
+          "platform": "taobao",
+          "title": "Q币充值100个 QQ钱包即时到账",
+          "price": 90,
+          "originalPrice": 122.4,
+          "commissionRate": 23.84,
+          "salesVolume": 55657,
+          "rating": 4.79,
+          "reviewCount": 86804,
+          "category": "点卡充值",
+          "imageUrl": "https://picsum.photos/seed/tbk27qcoin/400/300",
+          "link": "https://pub.alimama.com/",
+          "couponAmount": 11,
+          "shopName": "腾讯充值中心",
+          "isVirtual": true,
+          "deliveryType": "digital",
+          "meta": {
+            "source": "mock"
+          },
+          "score": 80.33,
+          "expectedRevenue": 21.46,
+          "aiCopy": "爆款推荐｜点卡充值好物，佣金23.84%，预期收益¥21.46",
+          "aiTags": [
+            "taobao",
+            "点卡充值",
+            "有券",
+            "精选"
+          ],
+          "reason": "高佣金+55657销量，转化预期佳",
+          "directionId": "points-cards"
+        },
+        {
+          "id": "gg-1794721565991-24-2t6zu5",
+          "platform": "google",
+          "title": "全国三网话费充值100元 即时到账",
+          "price": 20.83,
+          "originalPrice": 26.87,
+          "commissionRate": 4.15,
+          "salesVolume": 67443,
+          "rating": 4.9,
+          "reviewCount": 69761,
+          "category": "点卡充值",
+          "imageUrl": "https://picsum.photos/seed/gg24phonerecharge/400/300",
+          "link": "https://shopping.google.com/",
+          "shopName": "Google Shopping",
+          "isVirtual": true,
+          "deliveryType": "digital",
+          "meta": {
+            "source": "mock"
+          },
+          "score": 66.37,
+          "expectedRevenue": 0.86,
+          "aiCopy": "爆款推荐｜点卡充值好物，佣金4.15%，预期收益$0.86",
+          "aiTags": [
+            "google",
+            "点卡充值",
+            "热销",
+            "精选"
+          ],
+          "reason": "高佣金+67443销量，转化预期佳",
+          "directionId": "points-cards"
+        },
+        {
+          "id": "gg-1794721565991-5-49o2ja",
+          "platform": "google",
+          "title": "京东E卡500元 自用送礼皆宜 不记名",
+          "price": 105.56,
+          "originalPrice": 118.23,
+          "commissionRate": 4.37,
+          "salesVolume": 8917,
+          "rating": 4.81,
+          "reviewCount": 11955,
+          "category": "点卡充值",
+          "imageUrl": "https://picsum.photos/seed/gg5giftcard/400/300",
+          "link": "https://shopping.google.com/",
+          "shopName": "Google Shopping",
+          "isVirtual": true,
+          "deliveryType": "digital",
+          "meta": {
+            "source": "mock"
+          },
+          "score": 64.64,
+          "expectedRevenue": 4.61,
+          "aiCopy": "爆款推荐｜点卡充值好物，佣金4.37%，预期收益$4.61",
+          "aiTags": [
+            "google",
+            "点卡充值",
+            "热销",
+            "精选"
+          ],
+          "reason": "高佣金+8917销量，转化预期佳",
+          "directionId": "points-cards"
+        },
+        {
+          "id": "gg-1794721565991-17-s6ep6g",
+          "platform": "google",
+          "title": "中国移动流量包 30GB月包 全国通用",
+          "price": 5.33,
+          "originalPrice": 6.56,
+          "commissionRate": 4.52,
+          "salesVolume": 48211,
+          "rating": 4.75,
+          "reviewCount": 83844,
+          "category": "点卡充值",
+          "imageUrl": "https://picsum.photos/seed/gg17dataplan/400/300",
+          "link": "https://shopping.google.com/",
+          "shopName": "Google Shopping",
+          "isVirtual": true,
+          "deliveryType": "digital",
+          "meta": {
+            "source": "mock"
+          },
+          "score": 62.34,
+          "expectedRevenue": 0.24,
+          "aiCopy": "爆款推荐｜点卡充值好物，佣金4.52%，预期收益$0.24",
+          "aiTags": [
+            "google",
+            "点卡充值",
+            "热销",
+            "精选"
+          ],
+          "reason": "高佣金+48211销量，转化预期佳",
+          "directionId": "points-cards"
+        }
+      ]
+    },
+    {
+      "key": "厨房小电",
+      "count": 5,
+      "avgScore": 79.89,
+      "expectedRevenue": 160.36,
+      "items": [
+        {
+          "id": "jd-1794721565987-22-ajgmys",
+          "platform": "jd",
+          "title": "京东自营 空气炸锅家用无油 5.5L大容量 智能预设菜单",
+          "price": 371.77,
+          "originalPrice": 520.48,
+          "commissionRate": 18.59,
+          "salesVolume": 4060,
+          "rating": 4.71,
+          "reviewCount": 6824,
+          "category": "厨房小电",
+          "imageUrl": "https://picsum.photos/seed/jd22airfryer/400/300",
+          "link": "https://union.jd.com/",
+          "couponAmount": 84,
+          "shopName": "京东自营",
+          "isVirtual": false,
+          "deliveryType": "physical",
+          "meta": {
+            "source": "mock"
+          },
+          "score": 89.57,
+          "expectedRevenue": 69.11,
+          "aiCopy": "爆款推荐｜厨房小电好物，佣金18.59%，预期收益¥69.11",
+          "aiTags": [
+            "jd",
+            "厨房小电",
+            "有券",
+            "精选"
+          ],
+          "reason": "高佣金+4060销量，转化预期佳",
+          "directionId": "kitchen-appliances"
+        },
+        {
+          "id": "jd-1794721565987-33-orpp8w",
+          "platform": "jd",
+          "title": "京东自营 空气炸锅家用无油 5.5L大容量 智能预设菜单",
+          "price": 401.38,
+          "originalPrice": 549.89,
+          "commissionRate": 16.66,
+          "salesVolume": 3131,
+          "rating": 4.81,
+          "reviewCount": 2913,
+          "category": "厨房小电",
+          "imageUrl": "https://picsum.photos/seed/jd33airfryer/400/300",
+          "link": "https://union.jd.com/",
+          "couponAmount": 63,
+          "shopName": "京东自营",
+          "isVirtual": false,
+          "deliveryType": "physical",
+          "meta": {
+            "source": "mock"
+          },
+          "score": 86.6,
+          "expectedRevenue": 66.87,
+          "aiCopy": "爆款推荐｜厨房小电好物，佣金16.66%，预期收益¥66.87",
+          "aiTags": [
+            "jd",
+            "厨房小电",
+            "有券",
+            "精选"
+          ],
+          "reason": "高佣金+3131销量，转化预期佳",
+          "directionId": "kitchen-appliances"
+        },
+        {
+          "id": "amz-1794721565978-17-5814qm",
+          "platform": "amazon",
+          "title": "破壁机家用静音 加热多功能辅食料理",
+          "price": 63.07,
+          "originalPrice": 83.25,
+          "commissionRate": 11.34,
+          "salesVolume": 2768,
+          "rating": 4.44,
+          "reviewCount": 1601,
+          "category": "厨房小电",
+          "imageUrl": "https://picsum.photos/seed/amz17blenderkitchen/400/300",
+          "link": "https://www.amazon.com/",
+          "couponAmount": 106,
+          "shopName": "Amazon",
+          "isVirtual": false,
+          "deliveryType": "physical",
+          "meta": {
+            "source": "mock"
+          },
+          "score": 75.67,
+          "expectedRevenue": 7.15,
+          "aiCopy": "爆款推荐｜厨房小电好物，佣金11.34%，预期收益$7.15",
+          "aiTags": [
+            "amazon",
+            "厨房小电",
+            "有券",
+            "精选"
+          ],
+          "reason": "高佣金+2768销量，转化预期佳",
+          "directionId": "kitchen-appliances"
+        },
+        {
+          "id": "amz-1794721565978-5-l57txd",
+          "platform": "amazon",
+          "title": "破壁机家用静音 加热多功能辅食料理",
+          "price": 70.69,
+          "originalPrice": 96.14,
+          "commissionRate": 14.19,
+          "salesVolume": 1371,
+          "rating": 4.61,
+          "reviewCount": 5707,
+          "category": "厨房小电",
+          "imageUrl": "https://picsum.photos/seed/amz5blenderkitchen/400/300",
+          "link": "https://www.amazon.com/",
+          "couponAmount": 130,
+          "shopName": "Amazon",
+          "isVirtual": false,
+          "deliveryType": "physical",
+          "meta": {
+            "source": "mock"
+          },
+          "score": 75.66,
+          "expectedRevenue": 10.03,
+          "aiCopy": "爆款推荐｜厨房小电好物，佣金14.19%，预期收益$10.03",
+          "aiTags": [
+            "amazon",
+            "厨房小电",
+            "有券",
+            "精选"
+          ],
+          "reason": "高佣金+1371销量，转化预期佳",
+          "directionId": "kitchen-appliances"
+        },
+        {
+          "id": "amz-1794721565978-21-iodgih",
+          "platform": "amazon",
+          "title": "空气炸锅家用无油 5.5L大容量 智能预设菜单",
+          "price": 50.72,
+          "originalPrice": 61.37,
+          "commissionRate": 14.2,
+          "salesVolume": 7922,
+          "rating": 4.64,
+          "reviewCount": 6277,
+          "category": "厨房小电",
+          "imageUrl": "https://picsum.photos/seed/amz21airfryer/400/300",
+          "link": "https://www.amazon.com/",
+          "couponAmount": 33,
+          "shopName": "Amazon",
+          "isVirtual": false,
+          "deliveryType": "physical",
+          "meta": {
+            "source": "mock"
+          },
+          "score": 71.96,
+          "expectedRevenue": 7.2,
+          "aiCopy": "爆款推荐｜厨房小电好物，佣金14.2%，预期收益$7.2",
+          "aiTags": [
+            "amazon",
+            "厨房小电",
+            "有券",
+            "精选"
+          ],
+          "reason": "高佣金+7922销量，转化预期佳",
+          "directionId": "kitchen-appliances"
+        }
+      ]
+    },
+    {
+      "key": "母婴玩具",
+      "count": 4,
+      "avgScore": 65.61,
+      "expectedRevenue": 117.22,
+      "items": [
+        {
+          "id": "tbk-1794721565982-31-onwgjr",
+          "platform": "taobao",
+          "title": "儿童学习桌椅可升降 防近视矫姿",
+          "price": 899,
+          "originalPrice": 1312.54,
+          "commissionRate": 11.36,
+          "salesVolume": 832,
+          "rating": 4.75,
+          "reviewCount": 2748,
+          "category": "母婴玩具",
+          "imageUrl": "https://picsum.photos/seed/tbk31kidsstudydesk/400/300",
+          "link": "https://pub.alimama.com/",
+          "couponAmount": 93,
+          "shopName": "成长学习桌",
+          "isVirtual": false,
+          "deliveryType": "physical",
+          "meta": {
+            "source": "mock"
+          },
+          "score": 86.28,
+          "expectedRevenue": 102.13,
+          "aiCopy": "爆款推荐｜母婴玩具好物，佣金11.36%，预期收益¥102.13",
+          "aiTags": [
+            "taobao",
+            "母婴玩具",
+            "有券",
+            "精选"
+          ],
+          "reason": "高佣金+832销量，转化预期佳",
+          "directionId": "mother-baby"
+        },
+        {
+          "id": "gg-1794721565991-7-k2fjkd",
+          "platform": "google",
+          "title": "婴儿纸尿裤超薄透气 S-XL全码 整箱装",
+          "price": 42.56,
+          "originalPrice": 49.8,
+          "commissionRate": 5.92,
+          "salesVolume": 4427,
+          "rating": 4.88,
+          "reviewCount": 11823,
+          "category": "母婴玩具",
+          "imageUrl": "https://picsum.photos/seed/gg7babydiapers/400/300",
+          "link": "https://shopping.google.com/",
+          "shopName": "Google Shopping",
+          "isVirtual": false,
+          "deliveryType": "physical",
+          "meta": {
+            "source": "mock"
+          },
+          "score": 60.13,
+          "expectedRevenue": 2.52,
+          "aiCopy": "爆款推荐｜母婴玩具好物，佣金5.92%，预期收益$2.52",
+          "aiTags": [
+            "google",
+            "母婴玩具",
+            "热销",
+            "精选"
+          ],
+          "reason": "高佣金+4427销量，转化预期佳",
+          "directionId": "mother-baby"
+        },
+        {
+          "id": "gg-1794721565991-22-3p0lln",
+          "platform": "google",
+          "title": "婴儿纸尿裤超薄透气 S-XL全码 整箱装",
+          "price": 35.93,
+          "originalPrice": 43.48,
+          "commissionRate": 5.68,
+          "salesVolume": 3874,
+          "rating": 4.81,
+          "reviewCount": 9456,
+          "category": "母婴玩具",
+          "imageUrl": "https://picsum.photos/seed/gg22babydiapers/400/300",
+          "link": "https://shopping.google.com/",
+          "shopName": "Google Shopping",
+          "isVirtual": false,
+          "deliveryType": "physical",
+          "meta": {
+            "source": "mock"
+          },
+          "score": 58.55,
+          "expectedRevenue": 2.04,
+          "aiCopy": "爆款推荐｜母婴玩具好物，佣金5.68%，预期收益$2.04",
+          "aiTags": [
+            "google",
+            "母婴玩具",
+            "热销",
+            "精选"
+          ],
+          "reason": "高佣金+3874销量，转化预期佳",
+          "directionId": "mother-baby"
+        },
+        {
+          "id": "gg-1794721565991-21-qzwdnj",
+          "platform": "google",
+          "title": "儿童学习桌椅可升降 防近视矫姿",
+          "price": 158.57,
+          "originalPrice": 202.97,
+          "commissionRate": 6.64,
+          "salesVolume": 506,
+          "rating": 4.62,
+          "reviewCount": 1462,
+          "category": "母婴玩具",
+          "imageUrl": "https://picsum.photos/seed/gg21kidsstudydesk/400/300",
+          "link": "https://shopping.google.com/",
+          "shopName": "Google Shopping",
+          "isVirtual": false,
+          "deliveryType": "physical",
+          "meta": {
+            "source": "mock"
+          },
+          "score": 57.48,
+          "expectedRevenue": 10.53,
+          "aiCopy": "爆款推荐｜母婴玩具好物，佣金6.64%，预期收益$10.53",
+          "aiTags": [
+            "google",
+            "母婴玩具",
+            "热销",
+            "精选"
+          ],
+          "reason": "高佣金+506销量，转化预期佳",
+          "directionId": "mother-baby"
+        }
+      ]
+    },
+    {
+      "key": "服饰箱包",
+      "count": 1,
+      "avgScore": 82.46,
+      "expectedRevenue": 46.48,
+      "items": [
+        {
+          "id": "jd-1794721565987-30-gvs6ki",
+          "platform": "jd",
+          "title": "京东自营 运动跑步鞋男 透气减震 轻量网面",
+          "price": 258.24,
+          "originalPrice": 317.64,
+          "commissionRate": 18,
+          "salesVolume": 2692,
+          "rating": 4.66,
+          "reviewCount": 4839,
+          "category": "服饰箱包",
+          "imageUrl": "https://picsum.photos/seed/jd30runningshoes/400/300",
+          "link": "https://union.jd.com/",
+          "couponAmount": 58,
+          "shopName": "京东自营",
+          "isVirtual": false,
+          "deliveryType": "physical",
+          "meta": {
+            "source": "mock"
+          },
+          "score": 82.46,
+          "expectedRevenue": 46.48,
+          "aiCopy": "爆款推荐｜服饰箱包好物，佣金18%，预期收益¥46.48",
+          "aiTags": [
+            "jd",
+            "服饰箱包",
+            "有券",
+            "精选"
+          ],
+          "reason": "高佣金+2692销量，转化预期佳",
+          "directionId": "sports-fitness"
+        }
+      ]
+    },
+    {
+      "key": "食品保健",
+      "count": 5,
+      "avgScore": 64.44,
+      "expectedRevenue": 13.39,
+      "items": [
+        {
+          "id": "amz-1794721565978-7-sozsg3",
+          "platform": "amazon",
+          "title": "益生菌粉冲剂 肠道调理 30袋装",
+          "price": 24.01,
+          "originalPrice": 32.17,
+          "commissionRate": 23.47,
+          "salesVolume": 2299,
+          "rating": 4.74,
+          "reviewCount": 11455,
+          "category": "食品保健",
+          "imageUrl": "https://picsum.photos/seed/amz7probioticpowder/400/300",
+          "link": "https://www.amazon.com/",
+          "couponAmount": 44,
+          "shopName": "Amazon",
+          "isVirtual": false,
+          "deliveryType": "physical",
+          "meta": {
+            "source": "mock"
+          },
+          "score": 69.26,
+          "expectedRevenue": 5.64,
+          "aiCopy": "爆款推荐｜食品保健好物，佣金23.47%，预期收益$5.64",
+          "aiTags": [
+            "amazon",
+            "食品保健",
+            "有券",
+            "精选"
+          ],
+          "reason": "高佣金+2299销量，转化预期佳",
+          "directionId": "food-health"
+        },
+        {
+          "id": "amz-1794721565978-28-j8c6k3",
+          "platform": "amazon",
+          "title": "蓝山挂耳咖啡 10g×20片 新鲜烘焙",
+          "price": 10.16,
+          "originalPrice": 13.61,
+          "commissionRate": 32.31,
+          "salesVolume": 16240,
+          "rating": 4.89,
+          "reviewCount": 19519,
+          "category": "食品保健",
+          "imageUrl": "https://picsum.photos/seed/amz28dripcoffee/400/300",
+          "link": "https://www.amazon.com/",
+          "couponAmount": 17,
+          "shopName": "Amazon",
+          "isVirtual": false,
+          "deliveryType": "physical",
+          "meta": {
+            "source": "mock"
+          },
+          "score": 69.11,
+          "expectedRevenue": 3.28,
+          "aiCopy": "爆款推荐｜食品保健好物，佣金32.31%，预期收益$3.28",
+          "aiTags": [
+            "amazon",
+            "食品保健",
+            "有券",
+            "精选"
+          ],
+          "reason": "高佣金+16240销量，转化预期佳",
+          "directionId": "food-health"
+        },
+        {
+          "id": "amz-1794721565978-11-urjp1f",
+          "platform": "amazon",
+          "title": "坚果零食大礼包 每日坚果 混合装30包",
+          "price": 11.25,
+          "originalPrice": 13.39,
+          "commissionRate": 22.96,
+          "salesVolume": 17363,
+          "rating": 4.87,
+          "reviewCount": 6024,
+          "category": "食品保健",
+          "imageUrl": "https://picsum.photos/seed/amz11mixednutssnack/400/300",
+          "link": "https://www.amazon.com/",
+          "couponAmount": 20,
+          "shopName": "Amazon",
+          "isVirtual": false,
+          "deliveryType": "physical",
+          "meta": {
+            "source": "mock"
+          },
+          "score": 68.91,
+          "expectedRevenue": 2.58,
+          "aiCopy": "爆款推荐｜食品保健好物，佣金22.96%，预期收益$2.58",
+          "aiTags": [
+            "amazon",
+            "食品保健",
+            "有券",
+            "精选"
+          ],
+          "reason": "高佣金+17363销量，转化预期佳",
+          "directionId": "food-health"
+        },
+        {
+          "id": "gg-1794721565991-15-4vb52n",
+          "platform": "google",
+          "title": "坚果零食大礼包 每日坚果 混合装30包",
+          "price": 17.31,
+          "originalPrice": 22.33,
+          "commissionRate": 5.73,
+          "salesVolume": 6998,
+          "rating": 4.69,
+          "reviewCount": 14717,
+          "category": "食品保健",
+          "imageUrl": "https://picsum.photos/seed/gg15mixednutssnack/400/300",
+          "link": "https://shopping.google.com/",
+          "shopName": "Google Shopping",
+          "isVirtual": false,
+          "deliveryType": "physical",
+          "meta": {
+            "source": "mock"
+          },
+          "score": 57.8,
+          "expectedRevenue": 0.99,
+          "aiCopy": "爆款推荐｜食品保健好物，佣金5.73%，预期收益$0.99",
+          "aiTags": [
+            "google",
+            "食品保健",
+            "热销",
+            "精选"
+          ],
+          "reason": "高佣金+6998销量，转化预期佳",
+          "directionId": "food-health"
+        },
+        {
+          "id": "gg-1794721565990-0-b7jb58",
+          "platform": "google",
+          "title": "坚果零食大礼包 每日坚果 混合装30包",
+          "price": 17.68,
+          "originalPrice": 22.45,
+          "commissionRate": 5.09,
+          "salesVolume": 5214,
+          "rating": 4.81,
+          "reviewCount": 10704,
+          "category": "食品保健",
+          "imageUrl": "https://picsum.photos/seed/gg0mixednutssnack/400/300",
+          "link": "https://shopping.google.com/",
+          "shopName": "Google Shopping",
+          "isVirtual": false,
+          "deliveryType": "physical",
+          "meta": {
+            "source": "mock"
+          },
+          "score": 57.13,
+          "expectedRevenue": 0.9,
+          "aiCopy": "爆款推荐｜食品保健好物，佣金5.09%，预期收益$0.9",
+          "aiTags": [
+            "google",
+            "食品保健",
+            "热销",
+            "精选"
+          ],
+          "reason": "高佣金+5214销量，转化预期佳",
+          "directionId": "food-health"
+        }
+      ]
+    }
+  ]
+}
